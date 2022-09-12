@@ -11,7 +11,7 @@ The main folder consists of the following folders:
 - R code
 
 ArcGIS folder includes Python code and shape files of a map of Germany. The shape file is openly accessible on a website of https://gadm.org/.
-The Python code applies ArcGIS methods to get a list of neighbour counties of TOP 5% GDP producing German counties according to 2016.
+The Python code applies ArcGIS methods to get a list of neighbour counties of TOP 5% GDP per capita producing German counties according to 2016.
 
 Data folder includes various type open sourced data, which can be reached via a website of https://www.inkar.de/.
 
