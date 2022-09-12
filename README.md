@@ -1,0 +1,1 @@
+# Logistic-model-and-Python-GIS-methods
