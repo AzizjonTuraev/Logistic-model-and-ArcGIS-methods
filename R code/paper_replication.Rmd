@@ -1,0 +1,547 @@
+---
+title: "Applied Econometrics using ArcGIS"
+author: "Aziz"
+date: '2022-08-03'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(here)
+library(readxl)
+library(tidyverse)
+library(dplyr)
+library(fixest)
+library(modelsummary)
+library(stats)
+library(stringr)
+library(ggplot2)
+```
+
+
+
+```{r cars}
+
+here::i_am("paper_replication.Rmd")
+dir_data    <- here("../data")
+
+```
+
+
+
+
+```{r}
+filename <- "housingbenefitreceivers.xls"
+
+### Import ***xls data
+
+    housBen <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/" ))
+    colnames(housBen)[5:12]<-c(2013:2019)
+
+    housBen <- housBen[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        change_housBenefit <- as.numeric(housBen$`2017`) - as.numeric(housBen$`2016`)) %>%
+      select(-c(3,4))
+    
+    colnames(housBen)[3] <- 'chng_housBenefit'
+    housBen <- housBen[-1,]
+
+```
+
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "asylum_seekers_people.xls"
+
+### Import ***xls data
+
+    asylum_seekers <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(asylum_seekers)[4:11]<-c(2012:2019)
+    asylum_seekers <- select(asylum_seekers, c(1,7))%>%
+      mutate(
+        asylum_seekers$`2015` <- as.numeric(asylum_seekers$`2015`) * 100000 / 100
+      )
+    asylum_seekers <- asylum_seekers[-1,-2]
+    colnames(asylum_seekers)[2] <- 'asySeekers_2015'
+
+    
+    kreis<- left_join(housBen, asylum_seekers, by="Kennziffer")
+```
+
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "0-25.2016.xls"
+
+### Import ***xls data
+
+    temp0_25_2016 <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    temp0_25_2016 <- mutate(temp0_25_2016,
+        total_under25_2016 <- as.numeric(temp0_25_2016$`Einwohner unter 6 Jahre`) + 
+          as.numeric(temp0_25_2016$`Einwohner von 6 bis unter 18 Jahren`) + 
+          as.numeric(temp0_25_2016$`Einwohner von 18 bis unter 25 Jahren`))%>%
+      select(1,2,7)
+    temp0_25_2016 <- temp0_25_2016[-1,]
+    colnames(temp0_25_2016)[3] <- 'under25_2016'
+    
+filename <- "0-25.2017.xls"
+
+### Import ***xls data
+
+    temp0_25_2017 <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    temp0_25_2017<-mutate(temp0_25_2017,
+      total_under25_2017 <- as.numeric(temp0_25_2017$`Einwohner unter 6 Jahre`) + 
+                              as.numeric(temp0_25_2017$`Einwohner von 6 bis unter 18 Jahren`) + 
+                              as.numeric(temp0_25_2017$`Einwohner von 18 bis unter 25 Jahren`))%>%
+      select(1,7)
+    temp0_25_2017 <- temp0_25_2017[-1,]
+    colnames(temp0_25_2017)[2] <- 'under25_2017'
+
+youth <- left_join(temp0_25_2016, temp0_25_2017, by='Kennziffer')
+    
+    
+
+filename <- "25-65.2016.xls"
+
+### Import ***xls data
+
+    temp25_65_2016 <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    temp25_65_2016<-mutate(temp25_65_2016,
+      total_25_65_2016 <- as.numeric(temp25_65_2016$`Einwohner von 25 bis unter 30 Jahren`) + 
+                              as.numeric(temp25_65_2016$`Einwohner von 30 bis unter 50 Jahren`) + 
+                              as.numeric(temp25_65_2016$`Einwohner von 50 bis unter 65 Jahren`))%>%
+      select(1,7)
+    temp25_65_2016 <- temp25_65_2016[-1,]
+    colnames(temp25_65_2016)[2] <- '25_65_2016'
+
+
+youth <- left_join(youth, temp25_65_2016, by='Kennziffer')
+    
+    
+filename <- "25-65.2017.xls"
+
+### Import ***xls data
+
+    temp25_65_2017 <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    temp25_65_2017<-mutate(temp25_65_2017,
+      total_25_65_2017 <- as.numeric(temp25_65_2017$`Einwohner von 25 bis unter 30 Jahren`) + 
+                              as.numeric(temp25_65_2017$`Einwohner von 30 bis unter 50 Jahren`) + 
+                              as.numeric(temp25_65_2017$`Einwohner von 50 bis unter 65 Jahren`))%>%
+      select(1,7)
+    temp25_65_2017 <- temp25_65_2017[-1,]
+    colnames(temp25_65_2017)[2] <- '25_65_2017'
+
+
+youth <- left_join(youth, temp25_65_2017, by='Kennziffer')
+    
+
+youth <- mutate(youth,
+                chng_youth <- round(under25_2017 / youth$`25_65_2017` - under25_2016 / youth$`25_65_2016`, 4))%>%
+  select(1,7)
+colnames(youth)[2] <- 'chng_youth'
+
+kreis <- left_join(kreis, youth, by='Kennziffer')
+
+```
+
+
+
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "foreigners_share.xls"
+
+### Import ***xls data
+
+    for_share <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(for_share)[4:11]<-c(2012:2019)
+    
+    for_share <- for_share[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        change_shareFor <- as.numeric(for_share$`2017`) - as.numeric(for_share$`2016`)) %>%
+      select(-c(2:4))
+    
+    colnames(for_share)[2] <- 'chng_shareFor'
+    for_share <- for_share[-1,]
+
+    
+    kreis<- left_join(kreis, for_share, by="Kennziffer")
+```
+
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "gdp_percap.xls"
+
+### Import ***xls data
+
+    gdp <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(gdp)[4:11]<-c(2012:2019)
+    
+    gdp <- gdp[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        change_GDPpercap <- round(log(as.numeric(gdp$`2017`)*1000) - log(as.numeric(gdp$`2016`)*1000),4)) %>%
+      select(-c(2:4))
+    
+    colnames(gdp)[2] <- 'chng_logGDPpercap'
+    gdp <- gdp[-1,]
+
+    
+    kreis<- left_join(kreis, gdp, by="Kennziffer")
+```
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "shareFemale.xls"
+
+### Import ***xls data
+
+    popmale <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(popmale)[4:11]<-c(2012:2019)
+    
+    popmale <- popmale[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        shareMale2016 <- 100 - as.numeric(popmale$`2016`),
+        shareMale2017 <- 100 - as.numeric(popmale$`2017`),
+        change_shareMale <- shareMale2017 - shareMale2016) %>%
+      select(-c(2:6))
+    
+    colnames(popmale)[2] <- 'chng_shareMale'
+    popmale <- popmale[-1,]
+
+
+    kreis<- left_join(kreis, popmale, by="Kennziffer")
+
+```
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "unemployment_rate.xls"
+
+### Import ***xls data
+
+    unempl <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(unempl)[4:11]<-c(2012:2019)
+    
+    
+    unempl <- unempl[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        change_unempl <- as.numeric(unempl$`2017`) - as.numeric(unempl$`2016`)) %>%
+      select(-c(2:4))
+    
+    colnames(unempl)[2] <- 'chng_unempl'
+    unempl <- unempl[-1,]
+
+    
+    kreis<- left_join(kreis, unempl, by="Kennziffer")
+
+```
+
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "foreign_unemployed.xls"
+
+### Import ***xls data
+
+    for_unempl <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(for_unempl)[4:11]<-c(2012:2019)
+    
+    
+    for_unempl <- for_unempl[, c('Kennziffer', 'Raumeinheit', '2016', '2017')]%>%
+      mutate(
+        change_for_unempl <- as.numeric(for_unempl$`2017`) - as.numeric(for_unempl$`2016`),
+        for_unempl_2017 <- as.numeric(for_unempl$`2017`)) %>%
+      select(-c(2:4))
+    
+    colnames(for_unempl)[2:3] <- c('chng_for_unempl', 'for_unempl_2017')
+    for_unempl <- for_unempl[-1,]
+
+    
+    kreis<- left_join(kreis, for_unempl, by="Kennziffer")
+
+```
+
+
+
+Data about EAEs capacities of each state is obtained from the original paper
+
+```{r}
+
+bundeslands <- c("Baden-Wuertemberg", "Bavaria", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hesse", 
+                  "Mecklenburg Western Pomerania", "Lower Saxony", "North Rhine-Westphalia (NRW)", 
+                  "Rhineland Palatinate", "Saarland", "Saxony", "Saxony-Anhalt", "Schleswig-Holstein",
+                  "Thuringia")
+capacities <- c(26400, 22377, NA, 5092, NA, NA, 22047, 989, 5028, 16245, 10622, 1300, 16845, 6259,
+                15667, 6951)
+id <- c(8, 9, 11, 12, 4, 2, 6, 13, 3, 5, 7, 10, 14, 15, 1, 16)
+
+eae_capacity <- cbind(id, bundeslands, capacities)%>%
+  as.data.frame()
+eae_capacity$id <- as.numeric(eae_capacity$id)
+eae_capacity$capacities <- as.numeric(eae_capacity$capacities)
+eae_capacity <- arrange(eae_capacity, id)
+
+```
+
+
+
+
+EAEs
+
+here, average capacity of states is assigned to its counties
+
+
+```{r}
+
+eae <- kreis[,1:2] %>%
+  mutate(state_id=substring(Kennziffer,1,2))   # here first 2 numbers of Kennziffer is extracted
+eae$state_id <- as.numeric(eae$state_id)
+
+# here i counted how many counties each state has
+
+counties <- c()
+
+for (i in 1:16){
+  number <- nrow(eae[eae$state_id==i,])
+  counties <- append(counties, number)
+}
+
+# here i am joining counties to eae_capacity
+
+eae_capacity <- cbind(eae_capacity, counties) 
+eae_capacity$average <- round(eae_capacity$capacities / eae_capacity$counties)
+
+# here each county receives average eae_capacity of its state
+
+eae <- cbind(eae, average_eae=c(NA*nrow(eae)))
+
+for (i in 1:16) {
+  for (k in 1:nrow(eae)){
+    if (eae$state_id[k]==i) {
+      eae[k, "average_eae"] <- eae_capacity[i, "average"]
+    }
+  }
+
+}
+
+
+filename <- "poptotal.xls"
+
+### Import ***xls data
+
+    poptotal <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(poptotal)[4:11]<-c(2012:2019)
+    poptotal <- select(poptotal, c(1,7)) %>%
+      mutate(
+        pop2015 <- as.numeric(poptotal$`2015`)
+      )
+    poptotal <- poptotal[-1,-2]
+    colnames(poptotal)[2] <- 'pop2015'    
+
+    #here EAE capacities are calculated per 100.000 people in each state
+            
+    eae <- left_join(eae, poptotal, by='Kennziffer')
+    eae$eae <- round(eae$average_eae / eae$pop2015 * 100000)
+    eae <- select(eae, c(1,3,6))
+    
+    kreis<- left_join(kreis, eae, by="Kennziffer")
+
+```
+
+
+
+Here, TOP 5% GDP per capita generating counties are identified
+
+
+
+```{r pressure, echo=FALSE}
+
+filename <- "gdp_percap.xls"
+
+### Import ***xls data
+
+    gdp_rank <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))
+    colnames(gdp_rank)[4:11]<-c(2012:2019)
+    
+    
+    
+    gdp_rank <- gdp_rank[, c('Kennziffer', 'Raumeinheit', '2016')]%>%
+      mutate(
+        gdp2016 <- as.numeric(gdp_rank$`2016`)
+      )
+    colnames(gdp_rank)[4] <- 'gdp2016'
+
+    gdp_rank <- gdp_rank[-1,-3] %>%
+            arrange(desc(gdp2016))
+    
+    threshold <- quantile(gdp_rank$gdp2016, probs=c(0.95))      # threshold GDP value for counties to be on a list of TOP 5%
+    counties_rank <- gdp_rank$Raumeinheit[gdp_rank$gdp2016 >= threshold ]
+
+    
+```
+```{r}
+
+for (i in 1:length(counties_rank)) {
+  if (str_sub(counties_rank[i], -5)=='Stadt'){
+    counties_rank[i] <- substr(counties_rank[i], start = 1, stop = nchar(counties_rank[i])-7)
+  } else {
+    next
+  }
+}
+
+counties_rank
+
+```
+
+
+Here, a new column is introduced to the main dataset, which can take a value of 2 if the corresponding county is on the list of TOP 5% GDP per capita producing counties, a value of 1 if the corresponding county is a neighbour to the TOP 5% counties, otherwise 0.
+
+
+```{r}
+
+kreis$county_rank <- c(rep(0, times = nrow(kreis)))
+
+for (i in 1:nrow(kreis)){
+  if (kreis$Raumeinheit[i] %in% counties_rank){
+    kreis$county_rank[i] = 2
+  }
+}
+
+
+```
+
+
+Here, neighbours data is obtained by German counties shape file by applying ArcGIS tools in Python
+
+
+```{r}
+
+filename <- "neighbours.xls"
+
+### Import ***xls data
+    neighbours <- read_excel( paste( dir_data, filename, collapse = " + ", sep = "/"))%>%
+      select(c(1:3))
+    neighbours <- neighbours[neighbours$src_NAME_2 %in% counties_rank,]
+
+
+    counties_near <- c(unique(neighbours$nbr_NAME_2))
+    
+    for (i in 1:nrow(kreis)) {
+      if (kreis$Raumeinheit[i] %in% counties_near){
+        kreis$county_rank[i] <- 1
+      } else{
+        next
+      }
+    }
+
+kreis$county_rank <- as.factor(kreis$county_rank)
+    
+```
+
+
+
+
+NOW IT IS TIME TO MAKE A REGRESSION
+
+
+```{r}
+
+# First-differnece model with a dependent variable of total unemployment rate
+
+model1 <- lm(chng_unempl ~ asySeekers_2015 + eae + 
+                  chng_logGDPpercap + chng_youth + chng_shareMale + 
+                  chng_shareFor + chng_housBenefit, data = kreis)
+
+
+# First-differnece model with a dependent variable of non-Germans unemployment rate
+
+model2 <- lm(chng_for_unempl ~ asySeekers_2015 + eae + 
+                  chng_logGDPpercap + chng_youth + chng_shareMale + 
+                  chng_shareFor + chng_housBenefit, data = kreis)
+
+
+# Logistic model with a dependent variable of non-Germans unemployment rate
+
+
+kreis$new_for_unempl_2017 <- kreis$for_unempl_2017 / 100
+
+
+model3 <- glm(new_for_unempl_2017 ~ asySeekers_2015 + eae + 
+                  chng_logGDPpercap + chng_youth + chng_shareMale + 
+                  chng_shareFor + chng_housBenefit, data = kreis, family = 'binomial')
+
+
+# First-differnece model with a dependent variable of non-Germans unemployment rate plus a independent dummy variable
+
+model4 <- feols(chng_for_unempl ~ asySeekers_2015 + eae + 
+                  chng_logGDPpercap + chng_youth + chng_shareMale + 
+                  chng_shareFor + chng_housBenefit + county_rank, data = kreis)
+
+
+
+models <- list('OLS (overall)'= model1, 
+               'OLS (non-German)' = model2, 
+               'Logit (non-German)' = model3, 
+               'OLS (non-German +  TOP5% counties)' = model4)
+
+
+# changing the name of variables in modelsummary
+
+cm <- c('asySeekers_2015' = "Inflow of asylum seekers (2015)",
+        'eae' = "EAE capacity",
+        "chng_logGDPpercap" = "Change in Log GDP per capita",
+        "chng_youth" = "Change in youth share",
+        "chng_shareMale" = "Change in male share",
+        "chng_shareFor" = "Change in foreigner's share",
+        "chng_housBenefit" = "Change in House Benefit receivers",
+        "county_rank1" = "Neighbour counties",
+        "county_rank2" = "TOP 5% counties")
+
+
+
+modelsummary(models, fmt = 5, stars = T,  gof_omit = "AIC|BIC|RMSE|F|Log.Lik.", coef_map = cm, title = "Replication")
+
+
+
+```
+
+
+Plot of logistic model with an arbitrary dataset
+
+
+```{r}
+
+newdata_check = expand.grid(asySeekers_2015=seq(0,45000, length.out=50), eae = 150, chng_logGDPpercap = median(kreis$chng_logGDPpercap), chng_youth = median(kreis$chng_youth), chng_shareMale = median(kreis$chng_shareMale), chng_shareFor = median(kreis$chng_shareFor),  chng_housBenefit=median(kreis$chng_housBenefit), county_rank = 0:2)
+
+newdata_check$y <- predict(model3, newdata = newdata_check, type = 'response')
+
+ggplot(newdata_check, aes(asySeekers_2015, y)) +
+  geom_line(color='red')+
+  ggtitle("Plot of logistic model")+
+  xlab("Number of asylum seekers")+
+  ylab("Expected unemployment rate")+theme(
+  plot.title = element_text(color="red", size=14, face="bold.italic"),
+  axis.title.x = element_text(color="blue", size=14, face="bold"),
+  axis.title.y = element_text(color="#993333", size=14, face="bold"))
+
+```
+
