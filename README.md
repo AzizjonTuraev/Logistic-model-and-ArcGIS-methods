@@ -1,4 +1,4 @@
-# Logistic-model-and-Python-GIS-methods
+# Logistic-model-and-Python-GIS-methods (in R and Python)
 
 This project is a set of replications of a model used by Markus Gehersitz and Martin Ungerer in their paper Jobs, Crime and Votes: A Short-run Evaluation of the Refugee Crisis in Germany. 
 doi:10.1111/ecca.12420
