@@ -1,0 +1,2105 @@
+OBJECTID,src_NAME_2,nbr_NAME_2,LENGTH,NODE_COUNT
+1,Ahrweiler,Bonn,2.25646603649,0
+2,Ahrweiler,Euskirchen,68.8560560293,0
+3,Ahrweiler,Mayen-Koblenz,76.735528058,0
+4,Ahrweiler,Neuwied,24.6448634534,0
+5,Ahrweiler,Rhein-Sieg-Kreis,44.047794702,0
+6,Ahrweiler,Vulkaneifel,39.6293573012,0
+7,Aichach-Friedberg,Augsburg,43.3648986565,0
+8,Aichach-Friedberg,Augsburg (Kreisfreie Stadt),35.1742013752,0
+9,Aichach-Friedberg,Dachau,61.163147864,0
+10,Aichach-Friedberg,Donau-Ries,17.1461886231,0
+11,Aichach-Friedberg,Fürstenfeldbruck,35.9104114845,0
+12,Aichach-Friedberg,Landsberg am Lech,22.4131197887,0
+13,Aichach-Friedberg,Neuburg-Schrobenhausen,63.0049601751,0
+14,Aichach-Friedberg,Pfaffenhofen an der Ilm,5.65387423643,0
+15,Alb-Donau-Kreis,Biberach,150.506948785,0
+16,Alb-Donau-Kreis,Göppingen,67.9558481958,0
+17,Alb-Donau-Kreis,Günzburg,22.0181529769,0
+18,Alb-Donau-Kreis,Heidenheim,58.7228738671,0
+19,Alb-Donau-Kreis,Neu-Ulm,45.9227068927,0
+20,Alb-Donau-Kreis,Reutlingen,75.867875474,0
+21,Alb-Donau-Kreis,Ulm,91.1727214512,0
+22,Altenburger Land,Burgenlandkreis,32.9233090317,0
+23,Altenburger Land,Greiz,28.20578616,0
+24,Altenburger Land,Leipzig,63.347774153,0
+25,Altenburger Land,Mittelsachsen,9.95951745181,0
+26,Altenburger Land,Zwickau,70.7793657314,0
+27,Altenkirchen (Westerwald),Neuwied,74.6645049048,0
+28,Altenkirchen (Westerwald),Oberbergischer Kreis,34.1705409277,0
+29,Altenkirchen (Westerwald),Olpe,8.74009812466,0
+30,Altenkirchen (Westerwald),Rhein-Sieg-Kreis,42.6420444732,0
+31,Altenkirchen (Westerwald),Siegen-Wittgenstein,48.1230871932,0
+32,Altenkirchen (Westerwald),Westerwaldkreis,85.086970435,0
+33,Altmarkkreis Salzwedel,Börde,82.3602338204,0
+34,Altmarkkreis Salzwedel,Gifhorn,62.7506981252,0
+35,Altmarkkreis Salzwedel,Lüchow-Dannenberg,89.8584855995,0
+36,Altmarkkreis Salzwedel,Stendal,162.062305983,0
+37,Altmarkkreis Salzwedel,Uelzen,16.0029084267,0
+38,Altötting,Mühldorf am Inn,54.6347600389,0
+39,Altötting,Rottal-Inn,68.1625322339,0
+40,Altötting,Traunstein,49.9916086002,0
+41,Alzey-Worms,Bad Dürkheim,16.9257526634,0
+42,Alzey-Worms,Bad Kreuznach,18.5009747889,0
+43,Alzey-Worms,Bergstraße,0.387361419942,0
+44,Alzey-Worms,Donnersbergkreis,53.0242076961,0
+45,Alzey-Worms,Groß-Gerau,16.4032315825,0
+46,Alzey-Worms,Mainz-Bingen,90.4032303104,0
+47,Alzey-Worms,Worms,48.4496254701,0
+48,Amberg,Amberg-Sulzbach,57.1145915098,0
+49,Amberg-Sulzbach,Amberg,57.1145915098,0
+50,Amberg-Sulzbach,Bayreuth,16.5250714998,0
+51,Amberg-Sulzbach,Neumarkt in der Oberpfalz,82.8051226783,0
+52,Amberg-Sulzbach,Neustadt an der Waldnaab,113.00109809,0
+53,Amberg-Sulzbach,Nürnberger Land,86.7461316635,0
+54,Amberg-Sulzbach,Schwandorf,131.556171885,0
+55,Ammerland,Cloppenburg,51.656692179,0
+56,Ammerland,Friesland,40.0220061536,0
+57,Ammerland,Leer,33.0432414318,0
+58,Ammerland,Oldenburg,11.7663368189,0
+59,Ammerland,Oldenburg (Kreisfreie Stadt),31.6827836752,0
+60,Ammerland,Wesermarsch,39.6324902096,0
+61,Anhalt-Bitterfeld,Dessau-Roßlau,97.7928306058,0
+62,Anhalt-Bitterfeld,Jerichower Land,50.7322162475,0
+63,Anhalt-Bitterfeld,Nordsachsen,66.1132894522,0
+64,Anhalt-Bitterfeld,Potsdam-Mittelmark,13.8589800985,0
+65,Anhalt-Bitterfeld,Saalekreis,56.6311330287,0
+66,Anhalt-Bitterfeld,Salzlandkreis,95.0589955983,0
+67,Anhalt-Bitterfeld,Wittenberg,76.7925663573,0
+68,Ansbach,Ansbach (Kreisfreie Stadt),92.4646881809,0
+69,Ansbach,Donau-Ries,46.6083073051,0
+70,Ansbach,Fürth,33.0307070238,0
+71,Ansbach,Main-Tauber-Kreis,30.1621296845,0
+72,Ansbach,Neustadt an der Aisch-Bad Windsheim,114.985761756,0
+73,Ansbach,Ostalbkreis,34.8873756099,0
+74,Ansbach,Roth,41.1662780625,0
+75,Ansbach,Schwäbisch Hall,108.756680362,0
+76,Ansbach,Weißenburg-Gunzenhausen,63.6268819948,0
+77,Ansbach (Kreisfreie Stadt),Ansbach,92.4646881809,0
+78,Aschaffenburg,Aschaffenburg (Kreisfreie Stadt),48.7452630256,0
+79,Aschaffenburg,Darmstadt-Dieburg,18.7126156409,0
+80,Aschaffenburg,Main-Kinzig-Kreis,65.2878557839,0
+81,Aschaffenburg,Main-Spessart,77.4370962663,0
+82,Aschaffenburg,Miltenberg,61.784509593,0
+83,Aschaffenburg,Offenbach,20.568044196,0
+84,Aschaffenburg (Kreisfreie Stadt),Aschaffenburg,48.7452630256,0
+85,Aschaffenburg (Kreisfreie Stadt),Miltenberg,17.1450046174,0
+86,Augsburg,Aichach-Friedberg,43.3648986565,0
+87,Augsburg,Augsburg (Kreisfreie Stadt),70.6631943114,0
+88,Augsburg,Dillingen an der Donau,70.6328160257,0
+89,Augsburg,Donau-Ries,26.1564822637,0
+90,Augsburg,Günzburg,74.9037988071,0
+91,Augsburg,Landsberg am Lech,30.3687125492,0
+92,Augsburg,Ostallgäu,20.674913583,0
+93,Augsburg,Unterallgäu,51.0368821964,0
+94,Augsburg (Kreisfreie Stadt),Aichach-Friedberg,35.1742013752,0
+95,Augsburg (Kreisfreie Stadt),Augsburg,70.6631943114,0
+96,Aurich,Emden,55.0834889111,0
+97,Aurich,Leer,80.1910279912,0
+98,Aurich,Wittmund,122.178974731,0
+99,Bad Dürkheim,Alzey-Worms,16.9257526634,0
+100,Bad Dürkheim,Donnersbergkreis,37.0461514184,0
+101,Bad Dürkheim,Kaiserslautern,53.1880001149,0
+102,Bad Dürkheim,Kaiserslautern (Kreisfreie Stadt),0.997151885838,0
+103,Bad Dürkheim,Landau in der Pfalz,8.12972666281,0
+104,Bad Dürkheim,Neustadt an der Weinstraße,54.9648556376,0
+105,Bad Dürkheim,Rhein-Pfalz-Kreis,61.3754132616,0
+106,Bad Dürkheim,Südliche Weinstraße,9.91432555128,0
+107,Bad Dürkheim,Südwestpfalz,6.10426209118,0
+108,Bad Dürkheim,Worms,3.26552860746,0
+109,Bad Kissingen,Fulda,34.472860057,0
+110,Bad Kissingen,Main-Kinzig-Kreis,32.5115921415,0
+111,Bad Kissingen,Main-Spessart,70.3961861384,0
+112,Bad Kissingen,Rhön-Grabfeld,132.696856032,0
+113,Bad Kissingen,Schweinfurt,86.1119603854,0
+114,Bad Kreuznach,Alzey-Worms,18.5009747889,0
+115,Bad Kreuznach,Birkenfeld,42.1332471772,0
+116,Bad Kreuznach,Donnersbergkreis,43.0248450957,0
+117,Bad Kreuznach,Kusel,38.9997760607,0
+118,Bad Kreuznach,Mainz-Bingen,47.945820898,0
+119,Bad Kreuznach,Rhein-Hunsrück-Kreis,55.3037056154,0
+120,Bad Tölz-Wolfratshausen,Garmisch-Partenkirchen,50.7393664268,0
+121,Bad Tölz-Wolfratshausen,Miesbach,95.4636036636,0
+122,Bad Tölz-Wolfratshausen,München,36.7274701083,0
+123,Bad Tölz-Wolfratshausen,Starnberg,36.671096901,0
+124,Bad Tölz-Wolfratshausen,Weilheim-Schongau,36.8025685542,0
+125,Baden-Baden,Rastatt,124.224466972,0
+126,Bamberg,Bamberg (Kreisfreie Stadt),53.4653608169,0
+127,Bamberg,Bayreuth,33.6647861033,0
+128,Bamberg,Coburg,4.14256004907,0
+129,Bamberg,Erlangen-Höchstadt,66.92286197,0
+130,Bamberg,Forchheim,61.9609540195,0
+131,Bamberg,Haßberge,101.95025997,0
+132,Bamberg,Kitzingen,29.557413095,0
+133,Bamberg,Lichtenfels,92.542751646,0
+134,Bamberg,Neustadt an der Aisch-Bad Windsheim,14.05491685,0
+135,Bamberg,Schweinfurt,17.1293772744,0
+136,Bamberg (Kreisfreie Stadt),Bamberg,53.4653608169,0
+137,Barnim,Berlin,47.9040858012,0
+138,Barnim,Märkisch-Oderland,153.401014475,0
+139,Barnim,Oberhavel,128.119969476,0
+140,Barnim,Uckermark,126.308144235,0
+141,Bautzen,Dresden,50.2228250107,0
+142,Bautzen,Görlitz,161.834169255,0
+143,Bautzen,Meißen,52.8085508569,0
+144,Bautzen,Oberspreewald-Lausitz,73.9678333801,0
+145,Bautzen,Sächsische Schweiz-Osterzgebirge,59.0146361554,0
+146,Bautzen,Spree-Neiße,39.1474134273,0
+147,Bayreuth,Amberg-Sulzbach,16.5250714998,0
+148,Bayreuth,Bamberg,33.6647861033,0
+149,Bayreuth,Bayreuth (Kreisfreie Stadt),84.6240715631,0
+150,Bayreuth,Forchheim,71.7583258924,0
+151,Bayreuth,Hof,20.0321167813,0
+152,Bayreuth,Kulmbach,96.2167620374,0
+153,Bayreuth,Lichtenfels,3.01431534931,0
+154,Bayreuth,Neustadt an der Waldnaab,46.2004428849,0
+155,Bayreuth,Nürnberger Land,56.8709912436,0
+156,Bayreuth,Tirschenreuth,44.4638886223,0
+157,Bayreuth,Wunsiedel im Fichtelgebirge,29.6606984574,0
+158,Bayreuth (Kreisfreie Stadt),Bayreuth,84.6240715631,0
+159,Berchtesgadener Land,Traunstein,98.2072681833,0
+160,Bergstraße,Alzey-Worms,0.387361419942,0
+161,Bergstraße,Darmstadt-Dieburg,34.8552390753,0
+162,Bergstraße,Groß-Gerau,16.3653851509,0
+163,Bergstraße,Mannheim,22.1396623934,0
+164,Bergstraße,Odenwaldkreis,55.2993545902,0
+165,Bergstraße,Rhein-Neckar-Kreis,139.009618175,0
+166,Bergstraße,Rhein-Pfalz-Kreis,1.55212361525,0
+167,Bergstraße,Worms,24.3439300162,0
+168,Berlin,Barnim,47.9040858012,0
+169,Berlin,Dahme-Spreewald,49.4939439556,0
+170,Berlin,Havelland,25.1050653464,0
+171,Berlin,Märkisch-Oderland,25.951172221,0
+172,Berlin,Oberhavel,45.0998745093,0
+173,Berlin,Oder-Spree,34.1324055057,0
+174,Berlin,Potsdam,32.0321289904,0
+175,Berlin,Potsdam-Mittelmark,23.0737719317,0
+176,Berlin,Teltow-Fläming,15.09024705,0
+177,Bernkastel-Wittlich,Birkenfeld,41.0516799503,0
+178,Bernkastel-Wittlich,Cochem-Zell,42.5809136617,0
+179,Bernkastel-Wittlich,Eifelkreis Bitburg-Prüm,35.1341379829,0
+180,Bernkastel-Wittlich,Rhein-Hunsrück-Kreis,16.7799780756,0
+181,Bernkastel-Wittlich,Trier-Saarburg,89.5543765416,0
+182,Bernkastel-Wittlich,Vulkaneifel,45.9456347113,0
+183,Biberach,Alb-Donau-Kreis,150.506948785,0
+184,Biberach,Memmingen,2.24451470408,0
+185,Biberach,Neu-Ulm,8.9369222523,0
+186,Biberach,Ravensburg,83.964297085,0
+187,Biberach,Reutlingen,28.9127930713,0
+188,Biberach,Sigmaringen,76.2328242284,0
+189,Biberach,Unterallgäu,18.2383708743,0
+190,Bielefeld,Gütersloh,73.3472977841,0
+191,Bielefeld,Herford,33.4519816357,0
+192,Bielefeld,Lippe,23.2353459914,0
+193,Birkenfeld,Bad Kreuznach,42.1332471772,0
+194,Birkenfeld,Bernkastel-Wittlich,41.0516799503,0
+195,Birkenfeld,Kusel,55.5120908475,0
+196,Birkenfeld,Rhein-Hunsrück-Kreis,33.1863414304,0
+197,Birkenfeld,St. Wendel,41.4555079977,0
+198,Birkenfeld,Trier-Saarburg,10.8101815831,0
+199,Böblingen,Calw,63.460344726,0
+200,Böblingen,Enzkreis,34.5915400589,0
+201,Böblingen,Esslingen,29.8836849046,0
+202,Böblingen,Ludwigsburg,28.692376313,0
+203,Böblingen,Reutlingen,2.54123340137,0
+204,Böblingen,Stuttgart,16.3546308699,0
+205,Böblingen,Tübingen,71.5594729954,0
+206,Bochum,Dortmund,12.5315035724,0
+207,Bochum,Ennepe-Ruhr-Kreis,31.846340492,0
+208,Bochum,Essen,10.5828800424,0
+209,Bochum,Gelsenkirchen,6.01087510088,0
+210,Bochum,Herne,21.3523290065,0
+211,Bochum,Recklinghausen,2.99825019167,0
+212,Bodensee,Bodenseekreis,76.2732275128,0
+213,Bodensee,Konstanz,44.7807277061,0
+214,Bodensee,Lindau (Bodensee),21.6094470593,0
+215,Bodenseekreis,Bodensee,76.2732275128,0
+216,Bodenseekreis,Konstanz,19.8757104634,0
+217,Bodenseekreis,Lindau (Bodensee),15.7566068098,0
+218,Bodenseekreis,Ravensburg,89.000790571,0
+219,Bodenseekreis,Sigmaringen,46.8596219028,0
+220,Bonn,Ahrweiler,2.25646603649,0
+221,Bonn,Rhein-Sieg-Kreis,81.9176561485,0
+222,Börde,Altmarkkreis Salzwedel,82.3602338204,0
+223,Börde,Gifhorn,10.8505991274,0
+224,Börde,Harz,73.5295602747,0
+225,Börde,Helmstedt,112.636828004,0
+226,Börde,Jerichower Land,27.215842445,0
+227,Börde,Magdeburg,58.4209249655,0
+228,Börde,Salzlandkreis,63.4147525283,0
+229,Börde,Stendal,68.9607566346,0
+230,Borken,Coesfeld,65.2033223142,0
+231,Borken,Grafschaft Bentheim,3.71024206255,0
+232,Borken,Kleve,13.491783524,0
+233,Borken,Recklinghausen,38.4976474409,0
+234,Borken,Steinfurt,40.8938644126,0
+235,Borken,Wesel,58.7001104817,0
+236,Bottrop,Essen,10.680649741,0
+237,Bottrop,Oberhausen,18.1997202252,0
+238,Bottrop,Recklinghausen,33.5768706546,0
+239,Bottrop,Wesel,15.1551278367,0
+240,Brandenburg an der Havel,Havelland,14.1274213506,0
+241,Brandenburg an der Havel,Potsdam-Mittelmark,171.071437138,0
+242,Braunschweig,Gifhorn,41.213799171,0
+243,Braunschweig,Helmstedt,14.2730037048,0
+244,Braunschweig,Peine,27.3485892683,0
+245,Braunschweig,Salzgitter,12.2989550112,0
+246,Braunschweig,Wolfenbüttel,31.6434948878,0
+247,Breisgau-Hochschwarzwald,Emmendingen,78.2248717939,0
+248,Breisgau-Hochschwarzwald,Freiburg im Breisgau,110.720094881,0
+249,Breisgau-Hochschwarzwald,Lörrach,75.8035909383,0
+250,Breisgau-Hochschwarzwald,Schwarzwald-Baar-Kreis,64.3414347731,0
+251,Breisgau-Hochschwarzwald,Waldshut,84.7528076583,0
+252,Bremen,Bremerhaven,11.1363177506,0
+253,Bremen,Delmenhorst,12.2767185866,0
+254,Bremen,Diepholz,33.4704340419,0
+255,Bremen,Osterholz,80.8038880322,0
+256,Bremen,Verden,31.3237867344,0
+257,Bremen,Wesermarsch,27.1368526771,0
+258,Bremerhaven,Bremen,11.1363177506,0
+259,Bremerhaven,Cuxhaven,59.8632965252,0
+260,Bremerhaven,Wesermarsch,4.53285843263,0
+261,Burgenlandkreis,Altenburger Land,32.9233090317,0
+262,Burgenlandkreis,Gera,17.5026153669,0
+263,Burgenlandkreis,Greiz,12.6238489733,0
+264,Burgenlandkreis,Kyffhäuserkreis,17.3580559605,0
+265,Burgenlandkreis,Leipzig,50.4175207249,0
+266,Burgenlandkreis,Saale-Holzland-Kreis,60.3185174624,0
+267,Burgenlandkreis,Saalekreis,123.352648285,0
+268,Burgenlandkreis,Sömmerda,43.4400238841,0
+269,Burgenlandkreis,Weimarer Land,32.3569445934,0
+270,Calw,Böblingen,63.460344726,0
+271,Calw,Enzkreis,53.6723705231,0
+272,Calw,Freudenstadt,69.5157298006,0
+273,Calw,Karlsruhe,11.2308719111,0
+274,Calw,Pforzheim,1.17181053268,0
+275,Calw,Rastatt,55.474961285,0
+276,Calw,Tübingen,3.8903746894,0
+277,Celle,Gifhorn,84.5424467265,0
+278,Celle,Heidekreis,111.321245932,0
+279,Celle,Region Hannover,95.5573970485,0
+280,Celle,Uelzen,36.0330025834,0
+281,Cham,Regen,67.2065769514,0
+282,Cham,Regensburg,61.6148123419,0
+283,Cham,Schwandorf,148.671861774,0
+284,Cham,Straubing-Bogen,51.5747353695,0
+285,Chemnitz,Erzgebirgskreis,51.2559371136,0
+286,Chemnitz,Mittelsachsen,48.6832140017,0
+287,Chemnitz,Zwickau,25.2633479135,0
+288,Cloppenburg,Ammerland,51.656692179,0
+289,Cloppenburg,Emsland,85.8287219523,0
+290,Cloppenburg,Leer,26.9041695195,0
+291,Cloppenburg,Oldenburg,40.6113921686,0
+292,Cloppenburg,Osnabrück,43.6046020714,0
+293,Cloppenburg,Vechta,56.9690964171,0
+294,Coburg,Bamberg,4.14256004907,0
+295,Coburg,Coburg (Kreisfreie Stadt),63.8713387101,0
+296,Coburg,Haßberge,42.0698883475,0
+297,Coburg,Hildburghausen,82.502624662,0
+298,Coburg,Kronach,21.0331854429,0
+299,Coburg,Lichtenfels,73.928716934,0
+300,Coburg,Sonneberg,60.6366254211,0
+301,Coburg (Kreisfreie Stadt),Coburg,63.8713387101,0
+302,Cochem-Zell,Bernkastel-Wittlich,42.5809136617,0
+303,Cochem-Zell,Mayen-Koblenz,78.9605386707,0
+304,Cochem-Zell,Rhein-Hunsrück-Kreis,67.9642811544,0
+305,Cochem-Zell,Vulkaneifel,49.3601309127,0
+306,Coesfeld,Borken,65.2033223142,0
+307,Coesfeld,Hamm,6.95156390562,0
+308,Coesfeld,Münster,44.2357883928,0
+309,Coesfeld,Recklinghausen,49.7504008232,0
+310,Coesfeld,Steinfurt,39.709718994,0
+311,Coesfeld,Unna,60.1630061977,0
+312,Coesfeld,Warendorf,23.0977336883,0
+313,Cottbus,Spree-Neiße,121.146418289,0
+314,Cuxhaven,Bremerhaven,59.8632965252,0
+315,Cuxhaven,Osterholz,80.8732269411,0
+316,Cuxhaven,Rotenburg (Wümme),79.6103963654,0
+317,Cuxhaven,Stade,96.3739207478,0
+318,Cuxhaven,Wesermarsch,11.8175302833,0
+319,Dachau,Aichach-Friedberg,61.163147864,0
+320,Dachau,Freising,37.5320034271,0
+321,Dachau,Fürstenfeldbruck,48.2621346649,0
+322,Dachau,München,12.4374659019,0
+323,Dachau,München (Kreisfreie Stadt),14.5839185221,0
+324,Dachau,Pfaffenhofen an der Ilm,35.9129453816,0
+325,Dahme-Spreewald,Berlin,49.4939439556,0
+326,Dahme-Spreewald,Elbe-Elster,44.8339119953,0
+327,Dahme-Spreewald,Oberspreewald-Lausitz,69.0076054304,0
+328,Dahme-Spreewald,Oder-Spree,192.411142994,0
+329,Dahme-Spreewald,Spree-Neiße,58.8381212264,0
+330,Dahme-Spreewald,Teltow-Fläming,175.287229443,0
+331,Darmstadt,Darmstadt-Dieburg,73.7805905335,0
+332,Darmstadt,Offenbach,6.12816488179,0
+333,Darmstadt-Dieburg,Aschaffenburg,18.7126156409,0
+334,Darmstadt-Dieburg,Bergstraße,34.8552390753,0
+335,Darmstadt-Dieburg,Darmstadt,73.7805905335,0
+336,Darmstadt-Dieburg,Groß-Gerau,52.1837422739,0
+337,Darmstadt-Dieburg,Miltenberg,5.61727552823,0
+338,Darmstadt-Dieburg,Odenwaldkreis,44.9034575047,0
+339,Darmstadt-Dieburg,Offenbach,43.9025648778,0
+340,Deggendorf,Dingolfing-Landau,54.133369275,0
+341,Deggendorf,Freyung-Grafenau,40.6915643545,0
+342,Deggendorf,Passau,60.4874878731,0
+343,Deggendorf,Regen,61.4072615545,0
+344,Deggendorf,Rottal-Inn,4.47382613418,0
+345,Deggendorf,Straubing-Bogen,49.7042437502,0
+346,Delmenhorst,Bremen,12.2767185866,0
+347,Delmenhorst,Diepholz,9.50658322977,0
+348,Delmenhorst,Oldenburg,36.0798694608,0
+349,Delmenhorst,Wesermarsch,2.64507121977,0
+350,Dessau-Roßlau,Anhalt-Bitterfeld,97.7928306058,0
+351,Dessau-Roßlau,Wittenberg,51.901601794,0
+352,Diepholz,Bremen,33.4704340419,0
+353,Diepholz,Delmenhorst,9.50658322977,0
+354,Diepholz,Minden-Lübbecke,57.4403358698,0
+355,Diepholz,Nienburg (Weser),127.621444894,0
+356,Diepholz,Oldenburg,64.1996146248,0
+357,Diepholz,Osnabrück,6.12313813848,0
+358,Diepholz,Vechta,59.0817946648,0
+359,Diepholz,Verden,47.9644366913,0
+360,Dillingen an der Donau,Augsburg,70.6328160257,0
+361,Dillingen an der Donau,Donau-Ries,81.0179878255,0
+362,Dillingen an der Donau,Günzburg,53.0036901593,0
+363,Dillingen an der Donau,Heidenheim,102.323694663,0
+364,Dingolfing-Landau,Deggendorf,54.133369275,0
+365,Dingolfing-Landau,Landshut,81.0150997688,0
+366,Dingolfing-Landau,Rottal-Inn,110.076505793,0
+367,Dingolfing-Landau,Straubing-Bogen,88.0282501813,0
+368,Dithmarschen,Nordfriesland,41.9550594148,0
+369,Dithmarschen,Rendsburg-Eckernförde,51.1502883501,0
+370,Dithmarschen,Schleswig-Flensburg,47.0321372737,0
+371,Dithmarschen,Steinburg,38.7273401642,0
+372,Donau-Ries,Aichach-Friedberg,17.1461886231,0
+373,Donau-Ries,Ansbach,46.6083073051,0
+374,Donau-Ries,Augsburg,26.1564822637,0
+375,Donau-Ries,Dillingen an der Donau,81.0179878255,0
+376,Donau-Ries,Eichstätt,16.7486792898,0
+377,Donau-Ries,Heidenheim,19.9419647545,0
+378,Donau-Ries,Neuburg-Schrobenhausen,64.7080952311,0
+379,Donau-Ries,Ostalbkreis,67.8411019913,0
+380,Donau-Ries,Weißenburg-Gunzenhausen,88.5623836783,0
+381,Donnersbergkreis,Alzey-Worms,53.0242076961,0
+382,Donnersbergkreis,Bad Dürkheim,37.0461514184,0
+383,Donnersbergkreis,Bad Kreuznach,43.0248450957,0
+384,Donnersbergkreis,Kaiserslautern,55.6149300274,0
+385,Donnersbergkreis,Kusel,15.8653048186,0
+386,Dortmund,Bochum,12.5315035724,0
+387,Dortmund,Ennepe-Ruhr-Kreis,20.8087052355,0
+388,Dortmund,Hagen,4.93178014573,0
+389,Dortmund,Recklinghausen,25.8920583121,0
+390,Dortmund,Unna,66.2880075673,0
+391,Dresden,Bautzen,50.2228250107,0
+392,Dresden,Meißen,46.0678284747,0
+393,Dresden,Sächsische Schweiz-Osterzgebirge,69.3426865367,0
+394,Duisburg,Düsseldorf,12.2102918059,0
+395,Duisburg,Krefeld,19.2607893501,0
+396,Duisburg,Mettmann,3.21656224223,0
+397,Duisburg,Mülheim an der Ruhr,15.0050596211,0
+398,Duisburg,Oberhausen,15.4267983524,0
+399,Duisburg,Rhein-Kreis Neuss,1.04169699902,0
+400,Duisburg,Wesel,56.8185685608,0
+401,Düren,Euskirchen,58.6171504434,0
+402,Düren,Heinsberg,42.7696303136,0
+403,Düren,Rhein-Erft-Kreis,84.6276914365,0
+404,Düren,Rhein-Kreis Neuss,2.56496970185,0
+405,Düren,Städteregion Aachen,121.989265852,0
+406,Düsseldorf,Duisburg,12.2102918059,0
+407,Düsseldorf,Mettmann,81.7413948399,0
+408,Düsseldorf,Rhein-Kreis Neuss,50.6060480815,0
+409,Ebersberg,Erding,53.7658851631,0
+410,Ebersberg,Mühldorf am Inn,7.26957174378,0
+411,Ebersberg,München,57.1654876558,0
+412,Ebersberg,Rosenheim,76.9395408174,0
+413,Eichsfeld,Göttingen,78.9240771944,0
+414,Eichsfeld,Kyffhäuserkreis,5.73897344494,0
+415,Eichsfeld,Nordhausen,54.6377454933,0
+416,Eichsfeld,Osterode am Harz,19.5306542445,0
+417,Eichsfeld,Unstrut-Hainich-Kreis,60.1896695638,0
+418,Eichsfeld,Werra-Meißner-Kreis,58.1075925143,0
+419,Eichstätt,Donau-Ries,16.7486792898,0
+420,Eichstätt,Ingolstadt,49.4030594674,0
+421,Eichstätt,Kelheim,61.2575914385,0
+422,Eichstätt,Neuburg-Schrobenhausen,41.7489005827,0
+423,Eichstätt,Neumarkt in der Oberpfalz,55.155052218,0
+424,Eichstätt,Pfaffenhofen an der Ilm,51.824853202,0
+425,Eichstätt,Roth,58.2585614127,0
+426,Eichstätt,Weißenburg-Gunzenhausen,63.597669322,0
+427,Eifelkreis Bitburg-Prüm,Bernkastel-Wittlich,35.1341379829,0
+428,Eifelkreis Bitburg-Prüm,Euskirchen,2.29757708112,0
+429,Eifelkreis Bitburg-Prüm,Trier-Saarburg,43.2675120919,0
+430,Eifelkreis Bitburg-Prüm,Vulkaneifel,83.849754596,0
+431,Eisenach,Wartburgkreis,86.9365841381,0
+432,Eisenach,Werra-Meißner-Kreis,3.41666489496,0
+433,Elbe-Elster,Dahme-Spreewald,44.8339119953,0
+434,Elbe-Elster,Meißen,86.9979845703,0
+435,Elbe-Elster,Nordsachsen,60.956621127,0
+436,Elbe-Elster,Oberspreewald-Lausitz,95.9354720877,0
+437,Elbe-Elster,Teltow-Fläming,55.339578437,0
+438,Elbe-Elster,Wittenberg,55.6867142452,0
+439,Emden,Aurich,55.0834889111,0
+440,Emden,Leer,10.2708778557,0
+441,Emmendingen,Breisgau-Hochschwarzwald,78.2248717939,0
+442,Emmendingen,Freiburg im Breisgau,3.55517730473,0
+443,Emmendingen,Ortenaukreis,76.7469282978,0
+444,Emmendingen,Schwarzwald-Baar-Kreis,40.1346805813,0
+445,Emsland,Cloppenburg,85.8287219523,0
+446,Emsland,Grafschaft Bentheim,91.4843475276,0
+447,Emsland,Leer,54.6267864379,0
+448,Emsland,Osnabrück,33.0705710154,0
+449,Emsland,Steinfurt,55.006773083,0
+450,Ennepe-Ruhr-Kreis,Bochum,31.846340492,0
+451,Ennepe-Ruhr-Kreis,Dortmund,20.8087052355,0
+452,Ennepe-Ruhr-Kreis,Essen,8.16684716356,0
+453,Ennepe-Ruhr-Kreis,Hagen,68.0268753312,0
+454,Ennepe-Ruhr-Kreis,Märkischer Kreis,16.0218884967,0
+455,Ennepe-Ruhr-Kreis,Mettmann,16.6790808485,0
+456,Ennepe-Ruhr-Kreis,Oberbergischer Kreis,24.583791846,0
+457,Ennepe-Ruhr-Kreis,Wuppertal,33.081231168,0
+458,Enzkreis,Böblingen,34.5915400589,0
+459,Enzkreis,Calw,53.6723705231,0
+460,Enzkreis,Heilbronn,3.94043049947,0
+461,Enzkreis,Karlsruhe,87.1050939175,0
+462,Enzkreis,Ludwigsburg,39.6014996867,0
+463,Enzkreis,Pforzheim,73.1253638421,0
+464,Erding,Ebersberg,53.7658851631,0
+465,Erding,Freising,52.2838823944,0
+466,Erding,Landshut,49.7701725734,0
+467,Erding,Mühldorf am Inn,67.6910328615,0
+468,Erding,München,8.06055322659,0
+469,Erfurt,Gotha,34.4210040124,0
+470,Erfurt,Ilm-Kreis,23.2633689932,0
+471,Erfurt,Sömmerda,56.0918469564,0
+472,Erfurt,Weimarer Land,25.4253433244,0
+473,Erlangen,Erlangen-Höchstadt,54.1796138542,0
+474,Erlangen,Fürth,0.553841088333,0
+475,Erlangen,Fürth (Kreisfreie Stadt),6.82089409432,0
+476,Erlangen,Nürnberg,5.50330892333,0
+477,Erlangen-Höchstadt,Bamberg,66.92286197,0
+478,Erlangen-Höchstadt,Erlangen,54.1796138542,0
+479,Erlangen-Höchstadt,Forchheim,109.162468304,0
+480,Erlangen-Höchstadt,Fürth,16.8761664965,0
+481,Erlangen-Höchstadt,Neustadt an der Aisch-Bad Windsheim,74.0117185443,0
+482,Erlangen-Höchstadt,Nürnberg,32.4401711983,0
+483,Erlangen-Höchstadt,Nürnberger Land,39.8796664679,0
+484,Erzgebirgskreis,Chemnitz,51.2559371136,0
+485,Erzgebirgskreis,Mittelsachsen,81.7023442102,0
+486,Erzgebirgskreis,Vogtlandkreis,34.4563030231,0
+487,Erzgebirgskreis,Zwickau,95.3543141497,0
+488,Essen,Bochum,10.5828800424,0
+489,Essen,Bottrop,10.680649741,0
+490,Essen,Ennepe-Ruhr-Kreis,8.16684716356,0
+491,Essen,Gelsenkirchen,14.7170240305,0
+492,Essen,Mettmann,31.1681817809,0
+493,Essen,Mülheim an der Ruhr,23.8683894711,0
+494,Essen,Oberhausen,6.40172247574,0
+495,Essen,Recklinghausen,1.30451371453,0
+496,Esslingen,Böblingen,29.8836849046,0
+497,Esslingen,Göppingen,53.3017698769,0
+498,Esslingen,Rems-Murr-Kreis,31.4436661533,0
+499,Esslingen,Reutlingen,91.3923459761,0
+500,Esslingen,Stuttgart,38.6160052715,0
+501,Euskirchen,Ahrweiler,68.8560560293,0
+502,Euskirchen,Düren,58.6171504434,0
+503,Euskirchen,Eifelkreis Bitburg-Prüm,2.29757708112,0
+504,Euskirchen,Rhein-Erft-Kreis,31.8210329188,0
+505,Euskirchen,Rhein-Sieg-Kreis,63.9144439114,0
+506,Euskirchen,Städteregion Aachen,25.8540404926,0
+507,Euskirchen,Vulkaneifel,86.4014775237,0
+508,Flensburg,Schleswig-Flensburg,42.3507025378,0
+509,Forchheim,Bamberg,61.9609540195,0
+510,Forchheim,Bayreuth,71.7583258924,0
+511,Forchheim,Erlangen-Höchstadt,109.162468304,0
+512,Forchheim,Nürnberger Land,20.0361627825,0
+513,Frankenthal (Pfalz),Ludwigshafen am Rhein,19.4802905251,0
+514,Frankenthal (Pfalz),Mannheim,4.2014851993,0
+515,Frankenthal (Pfalz),Rhein-Pfalz-Kreis,28.4578910172,0
+516,Frankfurt (Oder),Märkisch-Oderland,14.6253700494,0
+517,Frankfurt (Oder),Oder-Spree,52.7479005409,0
+518,Frankfurt am Main,Groß-Gerau,25.1553467701,0
+519,Frankfurt am Main,Hochtaunuskreis,19.2114417941,0
+520,Frankfurt am Main,Main-Kinzig-Kreis,7.55146943996,0
+521,Frankfurt am Main,Main-Taunus-Kreis,28.4824576374,0
+522,Frankfurt am Main,Offenbach,17.1349157224,0
+523,Frankfurt am Main,Offenbach am Main,19.6428305807,0
+524,Frankfurt am Main,Wetteraukreis,22.4247676657,0
+525,Freiburg im Breisgau,Breisgau-Hochschwarzwald,110.720094881,0
+526,Freiburg im Breisgau,Emmendingen,3.55517730473,0
+527,Freising,Dachau,37.5320034271,0
+528,Freising,Erding,52.2838823944,0
+529,Freising,Kelheim,31.9305656079,0
+530,Freising,Landshut,44.6701731727,0
+531,Freising,München,22.8108395316,0
+532,Freising,Pfaffenhofen an der Ilm,62.6504422693,0
+533,Freudenstadt,Calw,69.5157298006,0
+534,Freudenstadt,Ortenaukreis,55.9324728879,0
+535,Freudenstadt,Rastatt,27.51196936,0
+536,Freudenstadt,Rottweil,89.5209747655,0
+537,Freudenstadt,Tübingen,27.8666687572,0
+538,Freudenstadt,Zollernalbkreis,8.85186220201,0
+539,Freyung-Grafenau,Deggendorf,40.6915643545,0
+540,Freyung-Grafenau,Passau,89.9906565227,0
+541,Freyung-Grafenau,Regen,44.0907717999,0
+542,Friesland,Ammerland,40.0220061536,0
+543,Friesland,Leer,3.08546437146,0
+544,Friesland,Wesermarsch,11.0135286806,0
+545,Friesland,Wilhelmshaven,43.6826291607,0
+546,Friesland,Wittmund,89.8597275558,0
+547,Fulda,Bad Kissingen,34.472860057,0
+548,Fulda,Hersfeld-Rotenburg,57.655427126,0
+549,Fulda,Main-Kinzig-Kreis,35.8321312023,0
+550,Fulda,Rhön-Grabfeld,20.2843573749,0
+551,Fulda,Schmalkalden-Meiningen,23.0261147813,0
+552,Fulda,Vogelsbergkreis,88.9291449532,0
+553,Fulda,Wartburgkreis,59.3184991366,0
+554,Fürstenfeldbruck,Aichach-Friedberg,35.9104114845,0
+555,Fürstenfeldbruck,Dachau,48.2621346649,0
+556,Fürstenfeldbruck,Landsberg am Lech,42.0346744202,0
+557,Fürstenfeldbruck,München,4.05700347843,0
+558,Fürstenfeldbruck,München (Kreisfreie Stadt),19.1645200328,0
+559,Fürstenfeldbruck,Starnberg,42.9823027145,0
+560,Fürth,Ansbach,33.0307070238,0
+561,Fürth,Erlangen,0.553841088333,0
+562,Fürth,Erlangen-Höchstadt,16.8761664965,0
+563,Fürth,Fürth (Kreisfreie Stadt),28.4528100277,0
+564,Fürth,Neustadt an der Aisch-Bad Windsheim,37.8201842685,0
+565,Fürth,Nürnberg,16.3694466155,0
+566,Fürth,Roth,21.7485347919,0
+567,Fürth (Kreisfreie Stadt),Erlangen,6.82089409432,0
+568,Fürth (Kreisfreie Stadt),Fürth,28.4528100277,0
+569,Fürth (Kreisfreie Stadt),Nürnberg,22.7319195181,0
+570,Garmisch-Partenkirchen,Bad Tölz-Wolfratshausen,50.7393664268,0
+571,Garmisch-Partenkirchen,Ostallgäu,18.094872892,0
+572,Garmisch-Partenkirchen,Weilheim-Schongau,75.9750669402,0
+573,Gelsenkirchen,Bochum,6.01087510088,0
+574,Gelsenkirchen,Essen,14.7170240305,0
+575,Gelsenkirchen,Herne,9.25679190237,0
+576,Gelsenkirchen,Recklinghausen,43.8744048329,0
+577,Gera,Burgenlandkreis,17.5026153669,0
+578,Gera,Greiz,78.22554792,0
+579,Gera,Saale-Holzland-Kreis,3.28830359178,0
+580,Germersheim,Karlsruhe,28.1841928397,0
+581,Germersheim,Karlsruhe (Stadtkreis),12.6415906963,0
+582,Germersheim,Rastatt,3.56623636105,0
+583,Germersheim,Rhein-Pfalz-Kreis,15.2657698723,0
+584,Germersheim,Südliche Weinstraße,87.2252717878,0
+585,Gießen,Lahn-Dill-Kreis,80.6525257072,0
+586,Gießen,Marburg-Biedenkopf,52.0291777644,0
+587,Gießen,Vogelsbergkreis,62.3509468252,0
+588,Gießen,Wetteraukreis,89.7468910304,0
+589,Gifhorn,Altmarkkreis Salzwedel,62.7506981252,0
+590,Gifhorn,Börde,10.8505991274,0
+591,Gifhorn,Braunschweig,41.213799171,0
+592,Gifhorn,Celle,84.5424467265,0
+593,Gifhorn,Helmstedt,24.470335792,0
+594,Gifhorn,Peine,35.3097725352,0
+595,Gifhorn,Region Hannover,17.9792918339,0
+596,Gifhorn,Uelzen,42.7482470464,0
+597,Gifhorn,Wolfsburg,50.5567161603,0
+598,Göppingen,Alb-Donau-Kreis,67.9558481958,0
+599,Göppingen,Esslingen,53.3017698769,0
+600,Göppingen,Heidenheim,24.7461113672,0
+601,Göppingen,Ostalbkreis,78.0604519503,0
+602,Göppingen,Rems-Murr-Kreis,24.4629763145,0
+603,Göppingen,Reutlingen,0.407541854012,0
+604,Görlitz,Bautzen,161.834169255,0
+605,Görlitz,Spree-Neiße,45.0977936925,0
+606,Goslar,Harz,73.5513918741,0
+607,Goslar,Hildesheim,30.607961347,0
+608,Goslar,Nordhausen,2.83981087796,0
+609,Goslar,Northeim,29.3078432746,0
+610,Goslar,Osterode am Harz,103.277835413,0
+611,Goslar,Salzgitter,32.3705789959,0
+612,Goslar,Wolfenbüttel,36.579532542,0
+613,Gotha,Erfurt,34.4210040124,0
+614,Gotha,Ilm-Kreis,55.7702738604,0
+615,Gotha,Schmalkalden-Meiningen,54.4806872142,0
+616,Gotha,Sömmerda,13.1626048778,0
+617,Gotha,Unstrut-Hainich-Kreis,43.6157319575,0
+618,Gotha,Wartburgkreis,59.2902985724,0
+619,Göttingen,Eichsfeld,78.9240771944,0
+620,Göttingen,Kassel,77.9638875214,0
+621,Göttingen,Kassel (Kreisfreie Stadt),2.16041010537,0
+622,Göttingen,Northeim,75.677436024,0
+623,Göttingen,Osterode am Harz,43.3400570266,0
+624,Göttingen,Werra-Meißner-Kreis,75.0583651066,0
+625,Grafschaft Bentheim,Borken,3.71024206255,0
+626,Grafschaft Bentheim,Emsland,91.4843475276,0
+627,Grafschaft Bentheim,Steinfurt,26.1972925401,0
+628,Greiz,Altenburger Land,28.20578616,0
+629,Greiz,Burgenlandkreis,12.6238489733,0
+630,Greiz,Gera,78.22554792,0
+631,Greiz,Saale-Holzland-Kreis,52.5413731129,0
+632,Greiz,Saale-Orla-Kreis,60.112877716,0
+633,Greiz,Vogtlandkreis,97.8217824615,0
+634,Greiz,Zwickau,42.1052550161,0
+635,Groß-Gerau,Alzey-Worms,16.4032315825,0
+636,Groß-Gerau,Bergstraße,16.3653851509,0
+637,Groß-Gerau,Darmstadt-Dieburg,52.1837422739,0
+638,Groß-Gerau,Frankfurt am Main,25.1553467701,0
+639,Groß-Gerau,Main-Taunus-Kreis,23.588117853,0
+640,Groß-Gerau,Mainz,8.97717451686,0
+641,Groß-Gerau,Mainz-Bingen,19.9170365002,0
+642,Groß-Gerau,Offenbach,9.23462640307,0
+643,Groß-Gerau,Wiesbaden,4.87457653245,0
+644,Günzburg,Alb-Donau-Kreis,22.0181529769,0
+645,Günzburg,Augsburg,74.9037988071,0
+646,Günzburg,Dillingen an der Donau,53.0036901593,0
+647,Günzburg,Heidenheim,9.07409444566,0
+648,Günzburg,Neu-Ulm,68.6862954319,0
+649,Günzburg,Unterallgäu,66.0806401984,0
+650,Gütersloh,Bielefeld,73.3472977841,0
+651,Gütersloh,Herford,8.54467970252,0
+652,Gütersloh,Lippe,18.9153195044,0
+653,Gütersloh,Osnabrück,45.2709776296,0
+654,Gütersloh,Paderborn,48.4971995363,0
+655,Gütersloh,Soest,10.6189015585,0
+656,Gütersloh,Warendorf,76.6169127821,0
+657,Hagen,Dortmund,4.93178014573,0
+658,Hagen,Ennepe-Ruhr-Kreis,68.0268753312,0
+659,Hagen,Märkischer Kreis,24.2349414719,0
+660,Hagen,Unna,12.8726270799,0
+661,Halle (Saale),Saalekreis,103.7758055,0
+662,Hamburg,Harburg,90.9567151356,0
+663,Hamburg,Herzogtum Lauenburg,19.6791617549,0
+664,Hamburg,Pinneberg,41.5623805824,0
+665,Hamburg,Segeberg,22.1812237412,0
+666,Hamburg,Stade,7.65893992155,0
+667,Hamburg,Stormarn,84.11344475,0
+668,Hameln-Pyrmont,Hildesheim,42.291986935,0
+669,Hameln-Pyrmont,Holzminden,61.1024488451,0
+670,Hameln-Pyrmont,Lippe,57.3097645664,0
+671,Hameln-Pyrmont,Region Hannover,42.3440480236,0
+672,Hameln-Pyrmont,Schaumburg,73.8802669768,0
+673,Hamm,Coesfeld,6.95156390562,0
+674,Hamm,Soest,36.8233050495,0
+675,Hamm,Unna,46.3018601416,0
+676,Hamm,Warendorf,33.0495037937,0
+677,Harburg,Hamburg,90.9567151356,0
+678,Harburg,Heidekreis,54.3399772736,0
+679,Harburg,Herzogtum Lauenburg,19.0204590665,0
+680,Harburg,Lüneburg,110.551599207,0
+681,Harburg,Rotenburg (Wümme),29.0412413884,0
+682,Harburg,Stade,50.6085561135,0
+683,Harz,Börde,73.5295602747,0
+684,Harz,Goslar,73.5513918741,0
+685,Harz,Helmstedt,18.4067821408,0
+686,Harz,Mansfeld-Südharz,154.452274594,0
+687,Harz,Nordhausen,28.4904694405,0
+688,Harz,Salzlandkreis,58.587962827,0
+689,Harz,Wolfenbüttel,34.7712499094,0
+690,Haßberge,Bamberg,101.95025997,0
+691,Haßberge,Coburg,42.0698883475,0
+692,Haßberge,Hildburghausen,19.2107410644,0
+693,Haßberge,Rhön-Grabfeld,30.2016863473,0
+694,Haßberge,Schweinfurt,130.626643851,0
+695,Havelland,Berlin,25.1050653464,0
+696,Havelland,Brandenburg an der Havel,14.1274213506,0
+697,Havelland,Jerichower Land,36.8363243664,0
+698,Havelland,Oberhavel,62.5247961558,0
+699,Havelland,Ostprignitz-Ruppin,111.311324524,0
+700,Havelland,Potsdam,40.2492128875,0
+701,Havelland,Potsdam-Mittelmark,109.632533463,0
+702,Havelland,Stendal,71.781895444,0
+703,Heidekreis,Celle,111.321245932,0
+704,Heidekreis,Harburg,54.3399772736,0
+705,Heidekreis,Lüneburg,44.6312664437,0
+706,Heidekreis,Nienburg (Weser),46.4865564676,0
+707,Heidekreis,Region Hannover,46.3529303372,0
+708,Heidekreis,Rotenburg (Wümme),111.853457841,0
+709,Heidekreis,Uelzen,37.7706482161,0
+710,Heidekreis,Verden,44.8418831293,0
+711,Heidelberg,Mannheim,2.02389417245,0
+712,Heidelberg,Rhein-Neckar-Kreis,86.2779158543,0
+713,Heidenheim,Alb-Donau-Kreis,58.7228738671,0
+714,Heidenheim,Dillingen an der Donau,102.323694663,0
+715,Heidenheim,Donau-Ries,19.9419647545,0
+716,Heidenheim,Göppingen,24.7461113672,0
+717,Heidenheim,Günzburg,9.07409444566,0
+718,Heidenheim,Ostalbkreis,84.3136091162,0
+719,Heilbronn,Enzkreis,3.94043049947,0
+720,Heilbronn,Heilbronn (Stadtkreis),88.3727065768,0
+721,Heilbronn,Hohenlohekreis,104.143973779,0
+722,Heilbronn,Karlsruhe,37.3021271952,0
+723,Heilbronn,Ludwigsburg,90.9920478792,0
+724,Heilbronn,Neckar-Odenwald-Kreis,70.030126039,0
+725,Heilbronn,Rems-Murr-Kreis,13.8895665146,0
+726,Heilbronn,Rhein-Neckar-Kreis,50.5014940895,0
+727,Heilbronn,Schwäbisch Hall,7.94743085177,0
+728,Heilbronn (Stadtkreis),Heilbronn,88.3727065768,0
+729,Heinsberg,Düren,42.7696303136,0
+730,Heinsberg,Mönchengladbach,30.547869467,0
+731,Heinsberg,Rhein-Kreis Neuss,11.938831655,0
+732,Heinsberg,Städteregion Aachen,17.9255892991,0
+733,Heinsberg,Viersen,16.2128010632,0
+734,Helmstedt,Börde,112.636828004,0
+735,Helmstedt,Braunschweig,14.2730037048,0
+736,Helmstedt,Gifhorn,24.470335792,0
+737,Helmstedt,Harz,18.4067821408,0
+738,Helmstedt,Wolfenbüttel,68.4474777828,0
+739,Helmstedt,Wolfsburg,71.6942078989,0
+740,Herford,Bielefeld,33.4519816357,0
+741,Herford,Gütersloh,8.54467970252,0
+742,Herford,Lippe,48.0072565841,0
+743,Herford,Minden-Lübbecke,79.0653716879,0
+744,Herford,Osnabrück,36.3715821837,0
+745,Herne,Bochum,21.3523290065,0
+746,Herne,Gelsenkirchen,9.25679190237,0
+747,Herne,Recklinghausen,22.4271096689,0
+748,Hersfeld-Rotenburg,Fulda,57.655427126,0
+749,Hersfeld-Rotenburg,Schwalm-Eder-Kreis,86.4144833264,0
+750,Hersfeld-Rotenburg,Vogelsbergkreis,33.3373696091,0
+751,Hersfeld-Rotenburg,Wartburgkreis,97.1073300958,0
+752,Hersfeld-Rotenburg,Werra-Meißner-Kreis,40.7307490748,0
+753,Herzogtum Lauenburg,Hamburg,19.6791617549,0
+754,Herzogtum Lauenburg,Harburg,19.0204590665,0
+755,Herzogtum Lauenburg,Lübeck,65.750515426,0
+756,Herzogtum Lauenburg,Ludwigslust-Parchim,75.0682612252,0
+757,Herzogtum Lauenburg,Lüneburg,14.5867720611,0
+758,Herzogtum Lauenburg,Nordwestmecklenburg,44.8773154651,0
+759,Herzogtum Lauenburg,Stormarn,113.757861248,0
+760,Hildburghausen,Coburg,82.502624662,0
+761,Hildburghausen,Haßberge,19.2107410644,0
+762,Hildburghausen,Ilm-Kreis,44.181263252,0
+763,Hildburghausen,Rhön-Grabfeld,50.4128197475,0
+764,Hildburghausen,Saalfeld-Rudolstadt,6.08203696775,0
+765,Hildburghausen,Schmalkalden-Meiningen,62.0905733517,0
+766,Hildburghausen,Sonneberg,37.2922002166,0
+767,Hildburghausen,Suhl,40.9458532797,0
+768,Hildesheim,Goslar,30.607961347,0
+769,Hildesheim,Hameln-Pyrmont,42.291986935,0
+770,Hildesheim,Holzminden,36.4932499108,0
+771,Hildesheim,Northeim,32.4064995635,0
+772,Hildesheim,Peine,47.4486698668,0
+773,Hildesheim,Region Hannover,101.788021802,0
+774,Hildesheim,Salzgitter,4.40804644917,0
+775,Hildesheim,Wolfenbüttel,38.5575301623,0
+776,Hochsauerlandkreis,Höxter,8.93752027459,0
+777,Hochsauerlandkreis,Märkischer Kreis,45.3894349052,0
+778,Hochsauerlandkreis,Olpe,67.1275276159,0
+779,Hochsauerlandkreis,Paderborn,61.4657519866,0
+780,Hochsauerlandkreis,Siegen-Wittgenstein,41.7119031766,0
+781,Hochsauerlandkreis,Soest,91.0289990274,0
+782,Hochsauerlandkreis,Waldeck-Frankenberg,153.466924739,0
+783,Hochtaunuskreis,Frankfurt am Main,19.2114417941,0
+784,Hochtaunuskreis,Lahn-Dill-Kreis,8.6088835493,0
+785,Hochtaunuskreis,Limburg-Weilburg,38.2333517283,0
+786,Hochtaunuskreis,Main-Taunus-Kreis,45.2298374102,0
+787,Hochtaunuskreis,Rheingau-Taunus-Kreis,26.8188344659,0
+788,Hochtaunuskreis,Wetteraukreis,59.2752450022,0
+789,Hof,Bayreuth,20.0321167813,0
+790,Hof,Hof (Kreisfreie Stadt),71.5187999948,0
+791,Hof,Kronach,35.8455584113,0
+792,Hof,Kulmbach,70.0839837043,0
+793,Hof,Saale-Orla-Kreis,47.2392952944,0
+794,Hof,Vogtlandkreis,45.827785917,0
+795,Hof,Wunsiedel im Fichtelgebirge,65.7634583411,0
+796,Hof (Kreisfreie Stadt),Hof,71.5187999948,0
+797,Hohenlohekreis,Heilbronn,104.143973779,0
+798,Hohenlohekreis,Main-Tauber-Kreis,44.4899090976,0
+799,Hohenlohekreis,Neckar-Odenwald-Kreis,35.7992827616,0
+800,Hohenlohekreis,Schwäbisch Hall,113.464639202,0
+801,Holzminden,Hameln-Pyrmont,61.1024488451,0
+802,Holzminden,Hildesheim,36.4932499108,0
+803,Holzminden,Höxter,61.4392171345,0
+804,Holzminden,Lippe,12.5087857641,0
+805,Holzminden,Northeim,81.2468067835,0
+806,Höxter,Hochsauerlandkreis,8.93752027459,0
+807,Höxter,Holzminden,61.4392171345,0
+808,Höxter,Kassel,59.2551136757,0
+809,Höxter,Lippe,66.2242737695,0
+810,Höxter,Northeim,2.71322854824,0
+811,Höxter,Paderborn,57.795345736,0
+812,Höxter,Waldeck-Frankenberg,30.0546140774,0
+813,Ilm-Kreis,Erfurt,23.2633689932,0
+814,Ilm-Kreis,Gotha,55.7702738604,0
+815,Ilm-Kreis,Hildburghausen,44.181263252,0
+816,Ilm-Kreis,Saalfeld-Rudolstadt,100.923886583,0
+817,Ilm-Kreis,Schmalkalden-Meiningen,9.33319143399,0
+818,Ilm-Kreis,Suhl,21.4895669515,0
+819,Ilm-Kreis,Weimarer Land,33.3883597191,0
+820,Ingolstadt,Eichstätt,49.4030594674,0
+821,Ingolstadt,Neuburg-Schrobenhausen,35.5362377822,0
+822,Ingolstadt,Pfaffenhofen an der Ilm,13.5127207668,0
+823,Jena,Saale-Holzland-Kreis,69.1099237866,0
+824,Jena,Weimarer Land,22.2029259331,0
+825,Jerichower Land,Anhalt-Bitterfeld,50.7322162475,0
+826,Jerichower Land,Börde,27.215842445,0
+827,Jerichower Land,Havelland,36.8363243664,0
+828,Jerichower Land,Magdeburg,22.2664927295,0
+829,Jerichower Land,Potsdam-Mittelmark,82.998243113,0
+830,Jerichower Land,Salzlandkreis,26.7237689634,0
+831,Jerichower Land,Stendal,78.246021444,0
+832,Kaiserslautern,Bad Dürkheim,53.1880001149,0
+833,Kaiserslautern,Donnersbergkreis,55.6149300274,0
+834,Kaiserslautern,Kaiserslautern (Kreisfreie Stadt),97.2178168198,0
+835,Kaiserslautern,Kusel,69.2132850668,0
+836,Kaiserslautern,Saarpfalz-Kreis,0.984922703928,0
+837,Kaiserslautern,Südwestpfalz,67.7299612245,0
+838,Kaiserslautern (Kreisfreie Stadt),Bad Dürkheim,0.997151885838,0
+839,Kaiserslautern (Kreisfreie Stadt),Kaiserslautern,97.2178168198,0
+840,Karlsruhe,Calw,11.2308719111,0
+841,Karlsruhe,Enzkreis,87.1050939175,0
+842,Karlsruhe,Germersheim,28.1841928397,0
+843,Karlsruhe,Heilbronn,37.3021271952,0
+844,Karlsruhe,Karlsruhe (Stadtkreis),89.0158954246,0
+845,Karlsruhe,Rastatt,54.3526377136,0
+846,Karlsruhe,Rhein-Neckar-Kreis,46.4330418113,0
+847,Karlsruhe,Rhein-Pfalz-Kreis,7.13582405263,0
+848,Karlsruhe,Speyer,2.43268758732,0
+849,Karlsruhe (Stadtkreis),Germersheim,12.6415906963,0
+850,Karlsruhe (Stadtkreis),Karlsruhe,89.0158954246,0
+851,Kassel,Göttingen,77.9638875214,0
+852,Kassel,Höxter,59.2551136757,0
+853,Kassel,Kassel (Kreisfreie Stadt),82.8312635428,0
+854,Kassel,Northeim,48.7084392802,0
+855,Kassel,Schwalm-Eder-Kreis,84.3847466761,0
+856,Kassel,Waldeck-Frankenberg,70.5038354024,0
+857,Kassel,Werra-Meißner-Kreis,68.2126483759,0
+858,Kassel (Kreisfreie Stadt),Göttingen,2.16041010537,0
+859,Kassel (Kreisfreie Stadt),Kassel,82.8312635428,0
+860,Kaufbeuren,Ostallgäu,49.7009341753,0
+861,Kelheim,Eichstätt,61.2575914385,0
+862,Kelheim,Freising,31.9305656079,0
+863,Kelheim,Landshut,69.9422627026,0
+864,Kelheim,Neumarkt in der Oberpfalz,18.1611698801,0
+865,Kelheim,Pfaffenhofen an der Ilm,46.2329155721,0
+866,Kelheim,Regensburg,128.613766606,0
+867,Kempten (Allgäu),Oberallgäu,68.5361867809,0
+868,Kiel,Plön,35.1135647408,0
+869,Kiel,Rendsburg-Eckernförde,64.2533533325,0
+870,Kitzingen,Bamberg,29.557413095,0
+871,Kitzingen,Neustadt an der Aisch-Bad Windsheim,97.3555242088,0
+872,Kitzingen,Schweinfurt,58.7219105415,0
+873,Kitzingen,Würzburg,75.6686036941,0
+874,Kleve,Borken,13.491783524,0
+875,Kleve,Viersen,39.2083807922,0
+876,Kleve,Wesel,134.174081844,0
+877,Koblenz,Mayen-Koblenz,54.1060653854,0
+878,Koblenz,Rhein-Lahn-Kreis,18.0060174941,0
+879,Koblenz,Westerwaldkreis,5.78197398075,0
+880,Köln,Leverkusen,23.34907562,0
+881,Köln,Mettmann,5.84517236625,0
+882,Köln,Rhein-Erft-Kreis,57.4529242245,0
+883,Köln,Rhein-Kreis Neuss,14.8575120957,0
+884,Köln,Rhein-Sieg-Kreis,25.1352507413,0
+885,Köln,Rheinisch-Bergischer Kreis,33.4807979803,0
+886,Konstanz,Bodensee,44.7807277061,0
+887,Konstanz,Bodenseekreis,19.8757104634,0
+888,Konstanz,Schwarzwald-Baar-Kreis,8.45100315413,0
+889,Konstanz,Sigmaringen,34.8077916235,0
+890,Konstanz,Tuttlingen,71.5489957887,0
+891,Krefeld,Duisburg,19.2607893501,0
+892,Krefeld,Rhein-Kreis Neuss,16.3780741029,0
+893,Krefeld,Viersen,36.6994092884,0
+894,Krefeld,Wesel,14.3483325444,0
+895,Kronach,Coburg,21.0331854429,0
+896,Kronach,Hof,35.8455584113,0
+897,Kronach,Kulmbach,45.3061463151,0
+898,Kronach,Lichtenfels,24.7482083949,0
+899,Kronach,Saale-Orla-Kreis,22.6928846642,0
+900,Kronach,Saalfeld-Rudolstadt,50.300144149,0
+901,Kronach,Sonneberg,51.0713918053,0
+902,Kulmbach,Bayreuth,96.2167620374,0
+903,Kulmbach,Hof,70.0839837043,0
+904,Kulmbach,Kronach,45.3061463151,0
+905,Kulmbach,Lichtenfels,53.285706809,0
+906,Kusel,Bad Kreuznach,38.9997760607,0
+907,Kusel,Birkenfeld,55.5120908475,0
+908,Kusel,Donnersbergkreis,15.8653048186,0
+909,Kusel,Kaiserslautern,69.2132850668,0
+910,Kusel,Neunkirchen,6.29491622934,0
+911,Kusel,Saarpfalz-Kreis,19.0919609078,0
+912,Kusel,St. Wendel,31.5301547902,0
+913,Kyffhäuserkreis,Burgenlandkreis,17.3580559605,0
+914,Kyffhäuserkreis,Eichsfeld,5.73897344494,0
+915,Kyffhäuserkreis,Mansfeld-Südharz,73.4365304481,0
+916,Kyffhäuserkreis,Nordhausen,67.2169618557,0
+917,Kyffhäuserkreis,Saalekreis,14.7736683358,0
+918,Kyffhäuserkreis,Sömmerda,111.558843598,0
+919,Kyffhäuserkreis,Unstrut-Hainich-Kreis,73.9908601926,0
+920,Lahn-Dill-Kreis,Gießen,80.6525257072,0
+921,Lahn-Dill-Kreis,Hochtaunuskreis,8.6088835493,0
+922,Lahn-Dill-Kreis,Limburg-Weilburg,57.7168448564,0
+923,Lahn-Dill-Kreis,Marburg-Biedenkopf,53.2674217722,0
+924,Lahn-Dill-Kreis,Siegen-Wittgenstein,52.4197465214,0
+925,Lahn-Dill-Kreis,Westerwaldkreis,16.4969989395,0
+926,Lahn-Dill-Kreis,Wetteraukreis,11.2816754037,0
+927,Landau in der Pfalz,Bad Dürkheim,8.12972666281,0
+928,Landau in der Pfalz,Südliche Weinstraße,102.182938013,0
+929,Landau in der Pfalz,Südwestpfalz,4.09430916163,0
+930,Landsberg am Lech,Aichach-Friedberg,22.4131197887,0
+931,Landsberg am Lech,Augsburg,30.3687125492,0
+932,Landsberg am Lech,Fürstenfeldbruck,42.0346744202,0
+933,Landsberg am Lech,Ostallgäu,78.179177942,0
+934,Landsberg am Lech,Starnberg,22.5256320366,0
+935,Landsberg am Lech,Weilheim-Schongau,78.5315804229,0
+936,Landshut,Dingolfing-Landau,81.0150997688,0
+937,Landshut,Erding,49.7701725734,0
+938,Landshut,Freising,44.6701731727,0
+939,Landshut,Kelheim,69.9422627026,0
+940,Landshut,Landshut (Kreisfreie Stadt),88.2765018781,0
+941,Landshut,Mühldorf am Inn,58.8118602072,0
+942,Landshut,Regensburg,5.73874210497,0
+943,Landshut,Rottal-Inn,17.1024872607,0
+944,Landshut,Straubing-Bogen,33.9301328545,0
+945,Landshut (Kreisfreie Stadt),Landshut,88.2765018781,0
+946,Leer,Ammerland,33.0432414318,0
+947,Leer,Aurich,80.1910279912,0
+948,Leer,Cloppenburg,26.9041695195,0
+949,Leer,Emden,10.2708778557,0
+950,Leer,Emsland,54.6267864379,0
+951,Leer,Friesland,3.08546437146,0
+952,Leer,Wittmund,7.13395170133,0
+953,Leipzig,Altenburger Land,63.347774153,0
+954,Leipzig,Burgenlandkreis,50.4175207249,0
+955,Leipzig,Leipzig (Kreisfreie Stadt),94.8699861854,0
+956,Leipzig,Mittelsachsen,89.9149859611,0
+957,Leipzig,Nordsachsen,137.460516698,0
+958,Leipzig,Saalekreis,13.4734541775,0
+959,Leipzig (Kreisfreie Stadt),Leipzig,94.8699861854,0
+960,Leipzig (Kreisfreie Stadt),Nordsachsen,65.5002899412,0
+961,Leverkusen,Köln,23.34907562,0
+962,Leverkusen,Mettmann,14.6035016133,0
+963,Leverkusen,Rheinisch-Bergischer Kreis,31.3482808811,0
+964,Lichtenfels,Bamberg,92.542751646,0
+965,Lichtenfels,Bayreuth,3.01431534931,0
+966,Lichtenfels,Coburg,73.928716934,0
+967,Lichtenfels,Kronach,24.7482083949,0
+968,Lichtenfels,Kulmbach,53.285706809,0
+969,Limburg-Weilburg,Hochtaunuskreis,38.2333517283,0
+970,Limburg-Weilburg,Lahn-Dill-Kreis,57.7168448564,0
+971,Limburg-Weilburg,Rhein-Lahn-Kreis,37.6961579547,0
+972,Limburg-Weilburg,Rheingau-Taunus-Kreis,31.5009019481,0
+973,Limburg-Weilburg,Westerwaldkreis,57.5976346616,0
+974,Lindau (Bodensee),Bodensee,21.6094470593,0
+975,Lindau (Bodensee),Bodenseekreis,15.7566068098,0
+976,Lindau (Bodensee),Oberallgäu,29.3531563327,0
+977,Lindau (Bodensee),Ravensburg,66.2783498091,0
+978,Lippe,Bielefeld,23.2353459914,0
+979,Lippe,Gütersloh,18.9153195044,0
+980,Lippe,Hameln-Pyrmont,57.3097645664,0
+981,Lippe,Herford,48.0072565841,0
+982,Lippe,Holzminden,12.5087857641,0
+983,Lippe,Höxter,66.2242737695,0
+984,Lippe,Minden-Lübbecke,9.52736999645,0
+985,Lippe,Paderborn,32.8606556406,0
+986,Lippe,Schaumburg,42.5353467293,0
+987,Lörrach,Breisgau-Hochschwarzwald,75.8035909383,0
+988,Lörrach,Waldshut,50.0577971266,0
+989,Lübeck,Herzogtum Lauenburg,65.750515426,0
+990,Lübeck,Nordwestmecklenburg,54.6285957082,0
+991,Lübeck,Ostholstein,45.4196107642,0
+992,Lübeck,Stormarn,27.5624450758,0
+993,Lüchow-Dannenberg,Altmarkkreis Salzwedel,89.8584855995,0
+994,Lüchow-Dannenberg,Ludwigslust-Parchim,12.7241471319,0
+995,Lüchow-Dannenberg,Lüneburg,79.3664824929,0
+996,Lüchow-Dannenberg,Prignitz,42.6308008758,0
+997,Lüchow-Dannenberg,Stendal,21.761889849,0
+998,Lüchow-Dannenberg,Uelzen,69.1339784952,0
+999,Ludwigsburg,Böblingen,28.692376313,0
+1000,Ludwigsburg,Enzkreis,39.6014996867,0
+1001,Ludwigsburg,Heilbronn,90.9920478792,0
+1002,Ludwigsburg,Rems-Murr-Kreis,68.0949485494,0
+1003,Ludwigsburg,Stuttgart,45.3824771761,0
+1004,Ludwigshafen am Rhein,Frankenthal (Pfalz),19.4802905251,0
+1005,Ludwigshafen am Rhein,Mannheim,16.6691473441,0
+1006,Ludwigshafen am Rhein,Rhein-Pfalz-Kreis,29.8005312584,0
+1007,Ludwigslust-Parchim,Herzogtum Lauenburg,75.0682612252,0
+1008,Ludwigslust-Parchim,Lüchow-Dannenberg,12.7241471319,0
+1009,Ludwigslust-Parchim,Lüneburg,98.1808334837,0
+1010,Ludwigslust-Parchim,Mecklenburgische Seenplatte,57.8188498417,0
+1011,Ludwigslust-Parchim,Nordwestmecklenburg,163.331173479,0
+1012,Ludwigslust-Parchim,Ostprignitz-Ruppin,0.827768835967,0
+1013,Ludwigslust-Parchim,Prignitz,181.279796475,0
+1014,Ludwigslust-Parchim,Rostock,88.1268064558,0
+1015,Ludwigslust-Parchim,Schwerin,67.5676008569,0
+1016,Lüneburg,Harburg,110.551599207,0
+1017,Lüneburg,Heidekreis,44.6312664437,0
+1018,Lüneburg,Herzogtum Lauenburg,14.5867720611,0
+1019,Lüneburg,Lüchow-Dannenberg,79.3664824929,0
+1020,Lüneburg,Ludwigslust-Parchim,98.1808334837,0
+1021,Lüneburg,Uelzen,97.8849332413,0
+1022,Magdeburg,Börde,58.4209249655,0
+1023,Magdeburg,Jerichower Land,22.2664927295,0
+1024,Magdeburg,Salzlandkreis,29.4029754598,0
+1025,Main-Kinzig-Kreis,Aschaffenburg,65.2878557839,0
+1026,Main-Kinzig-Kreis,Bad Kissingen,32.5115921415,0
+1027,Main-Kinzig-Kreis,Frankfurt am Main,7.55146943996,0
+1028,Main-Kinzig-Kreis,Fulda,35.8321312023,0
+1029,Main-Kinzig-Kreis,Main-Spessart,56.4662632141,0
+1030,Main-Kinzig-Kreis,Offenbach,29.8675423065,0
+1031,Main-Kinzig-Kreis,Offenbach am Main,4.18584513962,0
+1032,Main-Kinzig-Kreis,Vogelsbergkreis,44.836823632,0
+1033,Main-Kinzig-Kreis,Wetteraukreis,116.949205302,0
+1034,Main-Spessart,Aschaffenburg,77.4370962663,0
+1035,Main-Spessart,Bad Kissingen,70.3961861384,0
+1036,Main-Spessart,Main-Kinzig-Kreis,56.4662632141,0
+1037,Main-Spessart,Main-Tauber-Kreis,31.1506145863,0
+1038,Main-Spessart,Miltenberg,26.0311010274,0
+1039,Main-Spessart,Schweinfurt,36.9105382786,0
+1040,Main-Spessart,Würzburg,72.770216057,0
+1041,Main-Tauber-Kreis,Ansbach,30.1621296845,0
+1042,Main-Tauber-Kreis,Hohenlohekreis,44.4899090976,0
+1043,Main-Tauber-Kreis,Main-Spessart,31.1506145863,0
+1044,Main-Tauber-Kreis,Miltenberg,63.2191260296,0
+1045,Main-Tauber-Kreis,Neckar-Odenwald-Kreis,77.5249785091,0
+1046,Main-Tauber-Kreis,Neustadt an der Aisch-Bad Windsheim,19.0839074614,0
+1047,Main-Tauber-Kreis,Schwäbisch Hall,42.3260674632,0
+1048,Main-Tauber-Kreis,Würzburg,155.191383624,0
+1049,Main-Taunus-Kreis,Frankfurt am Main,28.4824576374,0
+1050,Main-Taunus-Kreis,Groß-Gerau,23.588117853,0
+1051,Main-Taunus-Kreis,Hochtaunuskreis,45.2298374102,0
+1052,Main-Taunus-Kreis,Rheingau-Taunus-Kreis,19.6770582069,0
+1053,Main-Taunus-Kreis,Wiesbaden,36.7777663501,0
+1054,Mainz,Groß-Gerau,8.97717451686,0
+1055,Mainz,Mainz-Bingen,58.9599970347,0
+1056,Mainz,Wiesbaden,12.2364870504,0
+1057,Mainz-Bingen,Alzey-Worms,90.4032303104,0
+1058,Mainz-Bingen,Bad Kreuznach,47.945820898,0
+1059,Mainz-Bingen,Groß-Gerau,19.9170365002,0
+1060,Mainz-Bingen,Mainz,58.9599970347,0
+1061,Mainz-Bingen,Rhein-Hunsrück-Kreis,25.995502121,0
+1062,Mainz-Bingen,Rhein-Lahn-Kreis,2.26297270211,0
+1063,Mainz-Bingen,Rheingau-Taunus-Kreis,51.0670649582,0
+1064,Mainz-Bingen,Wiesbaden,1.6678273653,0
+1065,Mannheim,Bergstraße,22.1396623934,0
+1066,Mannheim,Frankenthal (Pfalz),4.2014851993,0
+1067,Mannheim,Heidelberg,2.02389417245,0
+1068,Mannheim,Ludwigshafen am Rhein,16.6691473441,0
+1069,Mannheim,Rhein-Neckar-Kreis,29.9578916522,0
+1070,Mannheim,Rhein-Pfalz-Kreis,8.36205650727,0
+1071,Mansfeld-Südharz,Harz,154.452274594,0
+1072,Mansfeld-Südharz,Kyffhäuserkreis,73.4365304481,0
+1073,Mansfeld-Südharz,Nordhausen,51.5595500485,0
+1074,Mansfeld-Südharz,Saalekreis,111.960720598,0
+1075,Mansfeld-Südharz,Salzlandkreis,54.895804009,0
+1076,Marburg-Biedenkopf,Gießen,52.0291777644,0
+1077,Marburg-Biedenkopf,Lahn-Dill-Kreis,53.2674217722,0
+1078,Marburg-Biedenkopf,Schwalm-Eder-Kreis,43.6789052077,0
+1079,Marburg-Biedenkopf,Siegen-Wittgenstein,24.7366001354,0
+1080,Marburg-Biedenkopf,Vogelsbergkreis,39.9960348567,0
+1081,Marburg-Biedenkopf,Waldeck-Frankenberg,76.5088682622,0
+1082,Märkisch-Oderland,Barnim,153.401014475,0
+1083,Märkisch-Oderland,Berlin,25.951172221,0
+1084,Märkisch-Oderland,Frankfurt (Oder),14.6253700494,0
+1085,Märkisch-Oderland,Oder-Spree,124.733129213,0
+1086,Märkischer Kreis,Ennepe-Ruhr-Kreis,16.0218884967,0
+1087,Märkischer Kreis,Hagen,24.2349414719,0
+1088,Märkischer Kreis,Hochsauerlandkreis,45.3894349052,0
+1089,Märkischer Kreis,Oberbergischer Kreis,64.7346026911,0
+1090,Märkischer Kreis,Olpe,66.6598009558,0
+1091,Märkischer Kreis,Soest,4.75359904128,0
+1092,Märkischer Kreis,Unna,42.9230954039,0
+1093,Mayen-Koblenz,Ahrweiler,76.735528058,0
+1094,Mayen-Koblenz,Cochem-Zell,78.9605386707,0
+1095,Mayen-Koblenz,Koblenz,54.1060653854,0
+1096,Mayen-Koblenz,Neuwied,36.4159349927,0
+1097,Mayen-Koblenz,Rhein-Hunsrück-Kreis,51.5381266535,0
+1098,Mayen-Koblenz,Rhein-Lahn-Kreis,9.1960394169,0
+1099,Mayen-Koblenz,Vulkaneifel,30.6190016742,0
+1100,Mayen-Koblenz,Westerwaldkreis,31.6866432941,0
+1101,Mecklenburgische Seenplatte,Ludwigslust-Parchim,57.8188498417,0
+1102,Mecklenburgische Seenplatte,Oberhavel,43.0776261849,0
+1103,Mecklenburgische Seenplatte,Ostprignitz-Ruppin,112.990309096,0
+1104,Mecklenburgische Seenplatte,Rostock,159.204513017,0
+1105,Mecklenburgische Seenplatte,Uckermark,96.1857312635,0
+1106,Mecklenburgische Seenplatte,Vorpommern-Greifswald,212.475834123,0
+1107,Mecklenburgische Seenplatte,Vorpommern-Rügen,22.8906944794,0
+1108,Meißen,Bautzen,52.8085508569,0
+1109,Meißen,Dresden,46.0678284747,0
+1110,Meißen,Elbe-Elster,86.9979845703,0
+1111,Meißen,Mittelsachsen,78.8901253908,0
+1112,Meißen,Nordsachsen,39.4503210702,0
+1113,Meißen,Oberspreewald-Lausitz,20.5234102256,0
+1114,Meißen,Sächsische Schweiz-Osterzgebirge,21.4468105268,0
+1115,Memmingen,Biberach,2.24451470408,0
+1116,Memmingen,Ravensburg,7.13019586996,0
+1117,Memmingen,Unterallgäu,68.6513072024,0
+1118,Merzig-Wadern,Saarlouis,57.0224014304,0
+1119,Merzig-Wadern,St. Wendel,29.8590788766,0
+1120,Merzig-Wadern,Trier-Saarburg,76.1921781705,0
+1121,Mettmann,Duisburg,3.21656224223,0
+1122,Mettmann,Düsseldorf,81.7413948399,0
+1123,Mettmann,Ennepe-Ruhr-Kreis,16.6790808485,0
+1124,Mettmann,Essen,31.1681817809,0
+1125,Mettmann,Köln,5.84517236625,0
+1126,Mettmann,Leverkusen,14.6035016133,0
+1127,Mettmann,Mülheim an der Ruhr,10.9292490679,0
+1128,Mettmann,Rhein-Kreis Neuss,8.29350534014,0
+1129,Mettmann,Rheinisch-Bergischer Kreis,3.80041080992,0
+1130,Mettmann,Solingen,23.8861832867,0
+1131,Mettmann,Wuppertal,33.0231401981,0
+1132,Miesbach,Bad Tölz-Wolfratshausen,95.4636036636,0
+1133,Miesbach,München,27.2716088687,0
+1134,Miesbach,Rosenheim,93.0905160917,0
+1135,Miltenberg,Aschaffenburg,61.784509593,0
+1136,Miltenberg,Aschaffenburg (Kreisfreie Stadt),17.1450046174,0
+1137,Miltenberg,Darmstadt-Dieburg,5.61727552823,0
+1138,Miltenberg,Main-Spessart,26.0311010274,0
+1139,Miltenberg,Main-Tauber-Kreis,63.2191260296,0
+1140,Miltenberg,Neckar-Odenwald-Kreis,49.8326725673,0
+1141,Miltenberg,Odenwaldkreis,68.2315299156,0
+1142,Minden-Lübbecke,Diepholz,57.4403358698,0
+1143,Minden-Lübbecke,Herford,79.0653716879,0
+1144,Minden-Lübbecke,Lippe,9.52736999645,0
+1145,Minden-Lübbecke,Nienburg (Weser),97.9263066863,0
+1146,Minden-Lübbecke,Osnabrück,40.3472527895,0
+1147,Minden-Lübbecke,Schaumburg,67.6820092439,0
+1148,Mittelsachsen,Altenburger Land,9.95951745181,0
+1149,Mittelsachsen,Chemnitz,48.6832140017,0
+1150,Mittelsachsen,Erzgebirgskreis,81.7023442102,0
+1151,Mittelsachsen,Leipzig,89.9149859611,0
+1152,Mittelsachsen,Meißen,78.8901253908,0
+1153,Mittelsachsen,Nordsachsen,41.0935828162,0
+1154,Mittelsachsen,Sächsische Schweiz-Osterzgebirge,80.6107290217,0
+1155,Mittelsachsen,Zwickau,26.7713811885,0
+1156,Mönchengladbach,Heinsberg,30.547869467,0
+1157,Mönchengladbach,Rhein-Kreis Neuss,45.2667356891,0
+1158,Mönchengladbach,Viersen,34.4404571582,0
+1159,Mühldorf am Inn,Altötting,54.6347600389,0
+1160,Mühldorf am Inn,Ebersberg,7.26957174378,0
+1161,Mühldorf am Inn,Erding,67.6910328615,0
+1162,Mühldorf am Inn,Landshut,58.8118602072,0
+1163,Mühldorf am Inn,Rosenheim,58.0030562267,0
+1164,Mühldorf am Inn,Rottal-Inn,33.3932886897,0
+1165,Mühldorf am Inn,Traunstein,35.6749446768,0
+1166,Mülheim an der Ruhr,Duisburg,15.0050596211,0
+1167,Mülheim an der Ruhr,Essen,23.8683894711,0
+1168,Mülheim an der Ruhr,Mettmann,10.9292490679,0
+1169,Mülheim an der Ruhr,Oberhausen,11.2361771486,0
+1170,München,Bad Tölz-Wolfratshausen,36.7274701083,0
+1171,München,Dachau,12.4374659019,0
+1172,München,Ebersberg,57.1654876558,0
+1173,München,Erding,8.06055322659,0
+1174,München,Freising,22.8108395316,0
+1175,München,Fürstenfeldbruck,4.05700347843,0
+1176,München,Miesbach,27.2716088687,0
+1177,München,München (Kreisfreie Stadt),112.801107659,0
+1178,München,Rosenheim,7.93284629145,0
+1179,München,Starnberg,30.9299920571,0
+1180,München (Kreisfreie Stadt),Dachau,14.5839185221,0
+1181,München (Kreisfreie Stadt),Fürstenfeldbruck,19.1645200328,0
+1182,München (Kreisfreie Stadt),München,112.801107659,0
+1183,Münster,Coesfeld,44.2357883928,0
+1184,Münster,Steinfurt,32.2627314017,0
+1185,Münster,Warendorf,60.1652837451,0
+1186,Neckar-Odenwald-Kreis,Heilbronn,70.030126039,0
+1187,Neckar-Odenwald-Kreis,Hohenlohekreis,35.7992827616,0
+1188,Neckar-Odenwald-Kreis,Main-Tauber-Kreis,77.5249785091,0
+1189,Neckar-Odenwald-Kreis,Miltenberg,49.8326725673,0
+1190,Neckar-Odenwald-Kreis,Odenwaldkreis,15.7973143189,0
+1191,Neckar-Odenwald-Kreis,Rhein-Neckar-Kreis,66.6072926374,0
+1192,Neu-Ulm,Alb-Donau-Kreis,45.9227068927,0
+1193,Neu-Ulm,Biberach,8.9369222523,0
+1194,Neu-Ulm,Günzburg,68.6862954319,0
+1195,Neu-Ulm,Ulm,25.2055411843,0
+1196,Neu-Ulm,Unterallgäu,34.9799669324,0
+1197,Neuburg-Schrobenhausen,Aichach-Friedberg,63.0049601751,0
+1198,Neuburg-Schrobenhausen,Donau-Ries,64.7080952311,0
+1199,Neuburg-Schrobenhausen,Eichstätt,41.7489005827,0
+1200,Neuburg-Schrobenhausen,Ingolstadt,35.5362377822,0
+1201,Neuburg-Schrobenhausen,Pfaffenhofen an der Ilm,77.5507784787,0
+1202,Neumarkt in der Oberpfalz,Amberg-Sulzbach,82.8051226783,0
+1203,Neumarkt in der Oberpfalz,Eichstätt,55.155052218,0
+1204,Neumarkt in der Oberpfalz,Kelheim,18.1611698801,0
+1205,Neumarkt in der Oberpfalz,Nürnberger Land,68.9014452364,0
+1206,Neumarkt in der Oberpfalz,Regensburg,66.2354106963,0
+1207,Neumarkt in der Oberpfalz,Roth,96.3792800055,0
+1208,Neumarkt in der Oberpfalz,Schwandorf,4.37040546854,0
+1209,Neumünster,Plön,18.2843270279,0
+1210,Neumünster,Rendsburg-Eckernförde,33.7177983556,0
+1211,Neumünster,Segeberg,21.6225973932,0
+1212,Neunkirchen,Kusel,6.29491622934,0
+1213,Neunkirchen,Regionalverband Saarbrücken,33.9421399123,0
+1214,Neunkirchen,Saarlouis,17.3697231821,0
+1215,Neunkirchen,Saarpfalz-Kreis,45.7230948352,0
+1216,Neunkirchen,St. Wendel,38.7020775478,0
+1217,Neustadt an der Aisch-Bad Windsheim,Ansbach,114.985761756,0
+1218,Neustadt an der Aisch-Bad Windsheim,Bamberg,14.05491685,0
+1219,Neustadt an der Aisch-Bad Windsheim,Erlangen-Höchstadt,74.0117185443,0
+1220,Neustadt an der Aisch-Bad Windsheim,Fürth,37.8201842685,0
+1221,Neustadt an der Aisch-Bad Windsheim,Kitzingen,97.3555242088,0
+1222,Neustadt an der Aisch-Bad Windsheim,Main-Tauber-Kreis,19.0839074614,0
+1223,Neustadt an der Aisch-Bad Windsheim,Würzburg,15.7393755389,0
+1224,Neustadt an der Waldnaab,Amberg-Sulzbach,113.00109809,0
+1225,Neustadt an der Waldnaab,Bayreuth,46.2004428849,0
+1226,Neustadt an der Waldnaab,Schwandorf,94.83889227,0
+1227,Neustadt an der Waldnaab,Tirschenreuth,109.993702588,0
+1228,Neustadt an der Waldnaab,Weiden in der Oberpfalz,91.2881144866,0
+1229,Neustadt an der Weinstraße,Bad Dürkheim,54.9648556376,0
+1230,Neustadt an der Weinstraße,Rhein-Pfalz-Kreis,0.643817434347,0
+1231,Neustadt an der Weinstraße,Südliche Weinstraße,44.712129458,0
+1232,Neuwied,Ahrweiler,24.6448634534,0
+1233,Neuwied,Altenkirchen (Westerwald),74.6645049048,0
+1234,Neuwied,Mayen-Koblenz,36.4159349927,0
+1235,Neuwied,Rhein-Sieg-Kreis,39.7310603313,0
+1236,Neuwied,Westerwaldkreis,55.4120171417,0
+1237,Nienburg (Weser),Diepholz,127.621444894,0
+1238,Nienburg (Weser),Heidekreis,46.4865564676,0
+1239,Nienburg (Weser),Minden-Lübbecke,97.9263066863,0
+1240,Nienburg (Weser),Region Hannover,76.7709148765,0
+1241,Nienburg (Weser),Schaumburg,21.3595698802,0
+1242,Nienburg (Weser),Verden,59.0785698848,0
+1243,Nordfriesland,Dithmarschen,41.9550594148,0
+1244,Nordfriesland,Schleswig-Flensburg,133.276275936,0
+1245,Nordhausen,Eichsfeld,54.6377454933,0
+1246,Nordhausen,Goslar,2.83981087796,0
+1247,Nordhausen,Harz,28.4904694405,0
+1248,Nordhausen,Kyffhäuserkreis,67.2169618557,0
+1249,Nordhausen,Mansfeld-Südharz,51.5595500485,0
+1250,Nordhausen,Osterode am Harz,44.05925289,0
+1251,Nordsachsen,Anhalt-Bitterfeld,66.1132894522,0
+1252,Nordsachsen,Elbe-Elster,60.956621127,0
+1253,Nordsachsen,Leipzig,137.460516698,0
+1254,Nordsachsen,Leipzig (Kreisfreie Stadt),65.5002899412,0
+1255,Nordsachsen,Meißen,39.4503210702,0
+1256,Nordsachsen,Mittelsachsen,41.0935828162,0
+1257,Nordsachsen,Saalekreis,48.9158265958,0
+1258,Nordsachsen,Wittenberg,82.8149434795,0
+1259,Nordwestmecklenburg,Herzogtum Lauenburg,44.8773154651,0
+1260,Nordwestmecklenburg,Lübeck,54.6285957082,0
+1261,Nordwestmecklenburg,Ludwigslust-Parchim,163.331173479,0
+1262,Nordwestmecklenburg,Rostock,95.0686588673,0
+1263,Nordwestmecklenburg,Schwerin,25.9488618848,0
+1264,Northeim,Goslar,29.3078432746,0
+1265,Northeim,Göttingen,75.677436024,0
+1266,Northeim,Hildesheim,32.4064995635,0
+1267,Northeim,Holzminden,81.2468067835,0
+1268,Northeim,Höxter,2.71322854824,0
+1269,Northeim,Kassel,48.7084392802,0
+1270,Northeim,Osterode am Harz,35.0001035876,0
+1271,Nürnberg,Erlangen,5.50330892333,0
+1272,Nürnberg,Erlangen-Höchstadt,32.4401711983,0
+1273,Nürnberg,Fürth,16.3694466155,0
+1274,Nürnberg,Fürth (Kreisfreie Stadt),22.7319195181,0
+1275,Nürnberg,Nürnberger Land,59.4717349117,0
+1276,Nürnberg,Roth,26.5317854951,0
+1277,Nürnberg,Schwabach,16.984169772,0
+1278,Nürnberger Land,Amberg-Sulzbach,86.7461316635,0
+1279,Nürnberger Land,Bayreuth,56.8709912436,0
+1280,Nürnberger Land,Erlangen-Höchstadt,39.8796664679,0
+1281,Nürnberger Land,Forchheim,20.0361627825,0
+1282,Nürnberger Land,Neumarkt in der Oberpfalz,68.9014452364,0
+1283,Nürnberger Land,Nürnberg,59.4717349117,0
+1284,Nürnberger Land,Roth,32.3844649653,0
+1285,Oberallgäu,Kempten (Allgäu),68.5361867809,0
+1286,Oberallgäu,Lindau (Bodensee),29.3531563327,0
+1287,Oberallgäu,Ostallgäu,86.5184750457,0
+1288,Oberallgäu,Ravensburg,48.1934213554,0
+1289,Oberallgäu,Unterallgäu,34.3326228965,0
+1290,Oberbergischer Kreis,Altenkirchen (Westerwald),34.1705409277,0
+1291,Oberbergischer Kreis,Ennepe-Ruhr-Kreis,24.583791846,0
+1292,Oberbergischer Kreis,Märkischer Kreis,64.7346026911,0
+1293,Oberbergischer Kreis,Olpe,29.0332718627,0
+1294,Oberbergischer Kreis,Remscheid,15.1337438052,0
+1295,Oberbergischer Kreis,Rhein-Sieg-Kreis,49.4653313479,0
+1296,Oberbergischer Kreis,Rheinisch-Bergischer Kreis,65.4800247852,0
+1297,Oberbergischer Kreis,Wuppertal,6.66031349971,0
+1298,Oberhausen,Bottrop,18.1997202252,0
+1299,Oberhausen,Duisburg,15.4267983524,0
+1300,Oberhausen,Essen,6.40172247574,0
+1301,Oberhausen,Mülheim an der Ruhr,11.2361771486,0
+1302,Oberhausen,Wesel,10.4785814255,0
+1303,Oberhavel,Barnim,128.119969476,0
+1304,Oberhavel,Berlin,45.0998745093,0
+1305,Oberhavel,Havelland,62.5247961558,0
+1306,Oberhavel,Mecklenburgische Seenplatte,43.0776261849,0
+1307,Oberhavel,Ostprignitz-Ruppin,135.977605787,0
+1308,Oberhavel,Uckermark,73.1961354604,0
+1309,Oberspreewald-Lausitz,Bautzen,73.9678333801,0
+1310,Oberspreewald-Lausitz,Dahme-Spreewald,69.0076054304,0
+1311,Oberspreewald-Lausitz,Elbe-Elster,95.9354720877,0
+1312,Oberspreewald-Lausitz,Meißen,20.5234102256,0
+1313,Oberspreewald-Lausitz,Spree-Neiße,75.7583004927,0
+1314,Odenwaldkreis,Bergstraße,55.2993545902,0
+1315,Odenwaldkreis,Darmstadt-Dieburg,44.9034575047,0
+1316,Odenwaldkreis,Miltenberg,68.2315299156,0
+1317,Odenwaldkreis,Neckar-Odenwald-Kreis,15.7973143189,0
+1318,Odenwaldkreis,Rhein-Neckar-Kreis,36.247286239,0
+1319,Oder-Spree,Berlin,34.1324055057,0
+1320,Oder-Spree,Dahme-Spreewald,192.411142994,0
+1321,Oder-Spree,Frankfurt (Oder),52.7479005409,0
+1322,Oder-Spree,Märkisch-Oderland,124.733129213,0
+1323,Oder-Spree,Spree-Neiße,46.0230483222,0
+1324,Offenbach,Aschaffenburg,20.568044196,0
+1325,Offenbach,Darmstadt,6.12816488179,0
+1326,Offenbach,Darmstadt-Dieburg,43.9025648778,0
+1327,Offenbach,Frankfurt am Main,17.1349157224,0
+1328,Offenbach,Groß-Gerau,9.23462640307,0
+1329,Offenbach,Main-Kinzig-Kreis,29.8675423065,0
+1330,Offenbach,Offenbach am Main,29.9213259211,0
+1331,Offenbach am Main,Frankfurt am Main,19.6428305807,0
+1332,Offenbach am Main,Main-Kinzig-Kreis,4.18584513962,0
+1333,Offenbach am Main,Offenbach,29.9213259211,0
+1334,Oldenburg,Ammerland,11.7663368189,0
+1335,Oldenburg,Cloppenburg,40.6113921686,0
+1336,Oldenburg,Delmenhorst,36.0798694608,0
+1337,Oldenburg,Diepholz,64.1996146248,0
+1338,Oldenburg,Oldenburg (Kreisfreie Stadt),30.2372180331,0
+1339,Oldenburg,Vechta,35.1430984899,0
+1340,Oldenburg,Wesermarsch,49.144406973,0
+1341,Oldenburg (Kreisfreie Stadt),Ammerland,31.6827836752,0
+1342,Oldenburg (Kreisfreie Stadt),Oldenburg,30.2372180331,0
+1343,Oldenburg (Kreisfreie Stadt),Wesermarsch,7.90177952932,0
+1344,Olpe,Altenkirchen (Westerwald),8.74009812466,0
+1345,Olpe,Hochsauerlandkreis,67.1275276159,0
+1346,Olpe,Märkischer Kreis,66.6598009558,0
+1347,Olpe,Oberbergischer Kreis,29.0332718627,0
+1348,Olpe,Siegen-Wittgenstein,75.3549532207,0
+1349,Ortenaukreis,Emmendingen,76.7469282978,0
+1350,Ortenaukreis,Freudenstadt,55.9324728879,0
+1351,Ortenaukreis,Rastatt,69.018564982,0
+1352,Ortenaukreis,Rottweil,35.2967494941,0
+1353,Ortenaukreis,Schwarzwald-Baar-Kreis,18.3271253543,0
+1354,Osnabrück,Cloppenburg,43.6046020714,0
+1355,Osnabrück,Diepholz,6.12313813848,0
+1356,Osnabrück,Emsland,33.0705710154,0
+1357,Osnabrück,Gütersloh,45.2709776296,0
+1358,Osnabrück,Herford,36.3715821837,0
+1359,Osnabrück,Minden-Lübbecke,40.3472527895,0
+1360,Osnabrück,Osnabrück (Kreisfreie Stadt),84.367404937,0
+1361,Osnabrück,Steinfurt,109.581097885,0
+1362,Osnabrück,Vechta,77.6990311019,0
+1363,Osnabrück,Warendorf,29.7050025556,0
+1364,Osnabrück (Kreisfreie Stadt),Osnabrück,84.367404937,0
+1365,Osnabrück (Kreisfreie Stadt),Steinfurt,16.4564603701,0
+1366,Ostalbkreis,Ansbach,34.8873756099,0
+1367,Ostalbkreis,Donau-Ries,67.8411019913,0
+1368,Ostalbkreis,Göppingen,78.0604519503,0
+1369,Ostalbkreis,Heidenheim,84.3136091162,0
+1370,Ostalbkreis,Rems-Murr-Kreis,63.4176920297,0
+1371,Ostalbkreis,Schwäbisch Hall,118.974231982,0
+1372,Ostallgäu,Augsburg,20.674913583,0
+1373,Ostallgäu,Garmisch-Partenkirchen,18.094872892,0
+1374,Ostallgäu,Kaufbeuren,49.7009341753,0
+1375,Ostallgäu,Landsberg am Lech,78.179177942,0
+1376,Ostallgäu,Oberallgäu,86.5184750457,0
+1377,Ostallgäu,Unterallgäu,99.9010633556,0
+1378,Ostallgäu,Weilheim-Schongau,97.131206181,0
+1379,Osterholz,Bremen,80.8038880322,0
+1380,Osterholz,Cuxhaven,80.8732269411,0
+1381,Osterholz,Rotenburg (Wümme),46.7121040785,0
+1382,Osterholz,Verden,13.075721648,0
+1383,Osterholz,Wesermarsch,16.131483822,0
+1384,Osterode am Harz,Eichsfeld,19.5306542445,0
+1385,Osterode am Harz,Goslar,103.277835413,0
+1386,Osterode am Harz,Göttingen,43.3400570266,0
+1387,Osterode am Harz,Nordhausen,44.05925289,0
+1388,Osterode am Harz,Northeim,35.0001035876,0
+1389,Ostholstein,Lübeck,45.4196107642,0
+1390,Ostholstein,Plön,99.2717999799,0
+1391,Ostholstein,Segeberg,66.4472034543,0
+1392,Ostholstein,Stormarn,8.24639526786,0
+1393,Ostprignitz-Ruppin,Havelland,111.311324524,0
+1394,Ostprignitz-Ruppin,Ludwigslust-Parchim,0.827768835967,0
+1395,Ostprignitz-Ruppin,Mecklenburgische Seenplatte,112.990309096,0
+1396,Ostprignitz-Ruppin,Oberhavel,135.977605787,0
+1397,Ostprignitz-Ruppin,Prignitz,129.143354078,0
+1398,Ostprignitz-Ruppin,Stendal,31.61329978,0
+1399,Paderborn,Gütersloh,48.4971995363,0
+1400,Paderborn,Hochsauerlandkreis,61.4657519866,0
+1401,Paderborn,Höxter,57.795345736,0
+1402,Paderborn,Lippe,32.8606556406,0
+1403,Paderborn,Soest,69.3629838992,0
+1404,Passau,Deggendorf,60.4874878731,0
+1405,Passau,Freyung-Grafenau,89.9906565227,0
+1406,Passau,Passau (Kreisfreie Stadt),60.5949460573,0
+1407,Passau,Rottal-Inn,104.020192324,0
+1408,Passau (Kreisfreie Stadt),Passau,60.5949460573,0
+1409,Peine,Braunschweig,27.3485892683,0
+1410,Peine,Gifhorn,35.3097725352,0
+1411,Peine,Hildesheim,47.4486698668,0
+1412,Peine,Region Hannover,63.132079505,0
+1413,Peine,Salzgitter,26.0990065699,0
+1414,Pfaffenhofen an der Ilm,Aichach-Friedberg,5.65387423643,0
+1415,Pfaffenhofen an der Ilm,Dachau,35.9129453816,0
+1416,Pfaffenhofen an der Ilm,Eichstätt,51.824853202,0
+1417,Pfaffenhofen an der Ilm,Freising,62.6504422693,0
+1418,Pfaffenhofen an der Ilm,Ingolstadt,13.5127207668,0
+1419,Pfaffenhofen an der Ilm,Kelheim,46.2329155721,0
+1420,Pfaffenhofen an der Ilm,Neuburg-Schrobenhausen,77.5507784787,0
+1421,Pforzheim,Calw,1.17181053268,0
+1422,Pforzheim,Enzkreis,73.1253638421,0
+1423,Pinneberg,Hamburg,41.5623805824,0
+1424,Pinneberg,Segeberg,67.0520645761,0
+1425,Pinneberg,Stade,0.855589569969,0
+1426,Pinneberg,Steinburg,49.3503904032,0
+1427,Pirmasens,Südwestpfalz,63.0792445615,0
+1428,Plön,Kiel,35.1135647408,0
+1429,Plön,Neumünster,18.2843270279,0
+1430,Plön,Ostholstein,99.2717999799,0
+1431,Plön,Rendsburg-Eckernförde,36.8453504247,0
+1432,Plön,Segeberg,52.914641578,0
+1433,Potsdam,Berlin,32.0321289904,0
+1434,Potsdam,Havelland,40.2492128875,0
+1435,Potsdam,Potsdam-Mittelmark,56.2602002641,0
+1436,Potsdam-Mittelmark,Anhalt-Bitterfeld,13.8589800985,0
+1437,Potsdam-Mittelmark,Berlin,23.0737719317,0
+1438,Potsdam-Mittelmark,Brandenburg an der Havel,171.071437138,0
+1439,Potsdam-Mittelmark,Havelland,109.632533463,0
+1440,Potsdam-Mittelmark,Jerichower Land,82.998243113,0
+1441,Potsdam-Mittelmark,Potsdam,56.2602002641,0
+1442,Potsdam-Mittelmark,Teltow-Fläming,122.996692235,0
+1443,Potsdam-Mittelmark,Wittenberg,54.1384363735,0
+1444,Prignitz,Lüchow-Dannenberg,42.6308008758,0
+1445,Prignitz,Ludwigslust-Parchim,181.279796475,0
+1446,Prignitz,Ostprignitz-Ruppin,129.143354078,0
+1447,Prignitz,Stendal,82.067956768,0
+1448,Rastatt,Baden-Baden,124.224466972,0
+1449,Rastatt,Calw,55.474961285,0
+1450,Rastatt,Freudenstadt,27.51196936,0
+1451,Rastatt,Germersheim,3.56623636105,0
+1452,Rastatt,Karlsruhe,54.3526377136,0
+1453,Rastatt,Ortenaukreis,69.018564982,0
+1454,Ravensburg,Biberach,83.964297085,0
+1455,Ravensburg,Bodenseekreis,89.000790571,0
+1456,Ravensburg,Lindau (Bodensee),66.2783498091,0
+1457,Ravensburg,Memmingen,7.13019586996,0
+1458,Ravensburg,Oberallgäu,48.1934213554,0
+1459,Ravensburg,Sigmaringen,73.1436865909,0
+1460,Ravensburg,Unterallgäu,32.6050797147,0
+1461,Recklinghausen,Bochum,2.99825019167,0
+1462,Recklinghausen,Borken,38.4976474409,0
+1463,Recklinghausen,Bottrop,33.5768706546,0
+1464,Recklinghausen,Coesfeld,49.7504008232,0
+1465,Recklinghausen,Dortmund,25.8920583121,0
+1466,Recklinghausen,Essen,1.30451371453,0
+1467,Recklinghausen,Gelsenkirchen,43.8744048329,0
+1468,Recklinghausen,Herne,22.4271096689,0
+1469,Recklinghausen,Unna,19.6097745719,0
+1470,Recklinghausen,Wesel,21.573816018,0
+1471,Regen,Cham,67.2065769514,0
+1472,Regen,Deggendorf,61.4072615545,0
+1473,Regen,Freyung-Grafenau,44.0907717999,0
+1474,Regen,Straubing-Bogen,29.3604714785,0
+1475,Regensburg,Cham,61.6148123419,0
+1476,Regensburg,Kelheim,128.613766606,0
+1477,Regensburg,Landshut,5.73874210497,0
+1478,Regensburg,Neumarkt in der Oberpfalz,66.2354106963,0
+1479,Regensburg,Regensburg (Kreisfreie Stadt),78.6561371871,0
+1480,Regensburg,Schwandorf,84.2653991693,0
+1481,Regensburg,Straubing-Bogen,100.640833455,0
+1482,Regensburg (Kreisfreie Stadt),Regensburg,78.6561371871,0
+1483,Region Hannover,Celle,95.5573970485,0
+1484,Region Hannover,Gifhorn,17.9792918339,0
+1485,Region Hannover,Hameln-Pyrmont,42.3440480236,0
+1486,Region Hannover,Heidekreis,46.3529303372,0
+1487,Region Hannover,Hildesheim,101.788021802,0
+1488,Region Hannover,Nienburg (Weser),76.7709148765,0
+1489,Region Hannover,Peine,63.132079505,0
+1490,Region Hannover,Schaumburg,70.3795333119,0
+1491,Regionalverband Saarbrücken,Neunkirchen,33.9421399123,0
+1492,Regionalverband Saarbrücken,Saarlouis,51.5523272505,0
+1493,Regionalverband Saarbrücken,Saarpfalz-Kreis,41.4879563283,0
+1494,Rems-Murr-Kreis,Esslingen,31.4436661533,0
+1495,Rems-Murr-Kreis,Göppingen,24.4629763145,0
+1496,Rems-Murr-Kreis,Heilbronn,13.8895665146,0
+1497,Rems-Murr-Kreis,Ludwigsburg,68.0949485494,0
+1498,Rems-Murr-Kreis,Ostalbkreis,63.4176920297,0
+1499,Rems-Murr-Kreis,Schwäbisch Hall,50.1727104294,0
+1500,Rems-Murr-Kreis,Stuttgart,22.3473921876,0
+1501,Remscheid,Oberbergischer Kreis,15.1337438052,0
+1502,Remscheid,Rheinisch-Bergischer Kreis,12.8480322631,0
+1503,Remscheid,Solingen,7.37591030722,0
+1504,Remscheid,Wuppertal,26.2593414416,0
+1505,Rendsburg-Eckernförde,Dithmarschen,51.1502883501,0
+1506,Rendsburg-Eckernförde,Kiel,64.2533533325,0
+1507,Rendsburg-Eckernförde,Neumünster,33.7177983556,0
+1508,Rendsburg-Eckernförde,Plön,36.8453504247,0
+1509,Rendsburg-Eckernförde,Schleswig-Flensburg,80.4883667455,0
+1510,Rendsburg-Eckernförde,Segeberg,10.5391339587,0
+1511,Rendsburg-Eckernförde,Steinburg,93.4272849109,0
+1512,Reutlingen,Alb-Donau-Kreis,75.867875474,0
+1513,Reutlingen,Biberach,28.9127930713,0
+1514,Reutlingen,Böblingen,2.54123340137,0
+1515,Reutlingen,Esslingen,91.3923459761,0
+1516,Reutlingen,Göppingen,0.407541854012,0
+1517,Reutlingen,Sigmaringen,26.2137027987,0
+1518,Reutlingen,Tübingen,57.2706836706,0
+1519,Reutlingen,Zollernalbkreis,31.4719033254,0
+1520,Rhein-Erft-Kreis,Düren,84.6276914365,0
+1521,Rhein-Erft-Kreis,Euskirchen,31.8210329188,0
+1522,Rhein-Erft-Kreis,Köln,57.4529242245,0
+1523,Rhein-Erft-Kreis,Rhein-Kreis Neuss,49.7222460266,0
+1524,Rhein-Erft-Kreis,Rhein-Sieg-Kreis,29.6868033942,0
+1525,Rhein-Hunsrück-Kreis,Bad Kreuznach,55.3037056154,0
+1526,Rhein-Hunsrück-Kreis,Bernkastel-Wittlich,16.7799780756,0
+1527,Rhein-Hunsrück-Kreis,Birkenfeld,33.1863414304,0
+1528,Rhein-Hunsrück-Kreis,Cochem-Zell,67.9642811544,0
+1529,Rhein-Hunsrück-Kreis,Mainz-Bingen,25.995502121,0
+1530,Rhein-Hunsrück-Kreis,Mayen-Koblenz,51.5381266535,0
+1531,Rhein-Hunsrück-Kreis,Rhein-Lahn-Kreis,39.7923417356,0
+1532,Rhein-Kreis Neuss,Duisburg,1.04169699902,0
+1533,Rhein-Kreis Neuss,Düren,2.56496970185,0
+1534,Rhein-Kreis Neuss,Düsseldorf,50.6060480815,0
+1535,Rhein-Kreis Neuss,Heinsberg,11.938831655,0
+1536,Rhein-Kreis Neuss,Köln,14.8575120957,0
+1537,Rhein-Kreis Neuss,Krefeld,16.3780741029,0
+1538,Rhein-Kreis Neuss,Mettmann,8.29350534014,0
+1539,Rhein-Kreis Neuss,Mönchengladbach,45.2667356891,0
+1540,Rhein-Kreis Neuss,Rhein-Erft-Kreis,49.7222460266,0
+1541,Rhein-Kreis Neuss,Viersen,22.3591191668,0
+1542,Rhein-Lahn-Kreis,Koblenz,18.0060174941,0
+1543,Rhein-Lahn-Kreis,Limburg-Weilburg,37.6961579547,0
+1544,Rhein-Lahn-Kreis,Mainz-Bingen,2.26297270211,0
+1545,Rhein-Lahn-Kreis,Mayen-Koblenz,9.1960394169,0
+1546,Rhein-Lahn-Kreis,Rhein-Hunsrück-Kreis,39.7923417356,0
+1547,Rhein-Lahn-Kreis,Rheingau-Taunus-Kreis,96.5514040859,0
+1548,Rhein-Lahn-Kreis,Westerwaldkreis,71.6819536691,0
+1549,Rhein-Neckar-Kreis,Bergstraße,139.009618175,0
+1550,Rhein-Neckar-Kreis,Heidelberg,86.2779158543,0
+1551,Rhein-Neckar-Kreis,Heilbronn,50.5014940895,0
+1552,Rhein-Neckar-Kreis,Karlsruhe,46.4330418113,0
+1553,Rhein-Neckar-Kreis,Mannheim,29.9578916522,0
+1554,Rhein-Neckar-Kreis,Neckar-Odenwald-Kreis,66.6072926374,0
+1555,Rhein-Neckar-Kreis,Odenwaldkreis,36.247286239,0
+1556,Rhein-Neckar-Kreis,Rhein-Pfalz-Kreis,17.5657439229,0
+1557,Rhein-Neckar-Kreis,Speyer,9.58569156272,0
+1558,Rhein-Pfalz-Kreis,Bad Dürkheim,61.3754132616,0
+1559,Rhein-Pfalz-Kreis,Bergstraße,1.55212361525,0
+1560,Rhein-Pfalz-Kreis,Frankenthal (Pfalz),28.4578910172,0
+1561,Rhein-Pfalz-Kreis,Germersheim,15.2657698723,0
+1562,Rhein-Pfalz-Kreis,Karlsruhe,7.13582405263,0
+1563,Rhein-Pfalz-Kreis,Ludwigshafen am Rhein,29.8005312584,0
+1564,Rhein-Pfalz-Kreis,Mannheim,8.36205650727,0
+1565,Rhein-Pfalz-Kreis,Neustadt an der Weinstraße,0.643817434347,0
+1566,Rhein-Pfalz-Kreis,Rhein-Neckar-Kreis,17.5657439229,0
+1567,Rhein-Pfalz-Kreis,Speyer,39.4684556465,0
+1568,Rhein-Pfalz-Kreis,Südliche Weinstraße,3.09376241595,0
+1569,Rhein-Pfalz-Kreis,Worms,17.630723145,0
+1570,Rhein-Sieg-Kreis,Ahrweiler,44.047794702,0
+1571,Rhein-Sieg-Kreis,Altenkirchen (Westerwald),42.6420444732,0
+1572,Rhein-Sieg-Kreis,Bonn,81.9176561485,0
+1573,Rhein-Sieg-Kreis,Euskirchen,63.9144439114,0
+1574,Rhein-Sieg-Kreis,Köln,25.1352507413,0
+1575,Rhein-Sieg-Kreis,Neuwied,39.7310603313,0
+1576,Rhein-Sieg-Kreis,Oberbergischer Kreis,49.4653313479,0
+1577,Rhein-Sieg-Kreis,Rhein-Erft-Kreis,29.6868033942,0
+1578,Rhein-Sieg-Kreis,Rheinisch-Bergischer Kreis,35.9671597487,0
+1579,Rheingau-Taunus-Kreis,Hochtaunuskreis,26.8188344659,0
+1580,Rheingau-Taunus-Kreis,Limburg-Weilburg,31.5009019481,0
+1581,Rheingau-Taunus-Kreis,Main-Taunus-Kreis,19.6770582069,0
+1582,Rheingau-Taunus-Kreis,Mainz-Bingen,51.0670649582,0
+1583,Rheingau-Taunus-Kreis,Rhein-Lahn-Kreis,96.5514040859,0
+1584,Rheingau-Taunus-Kreis,Wiesbaden,45.7994595335,0
+1585,Rheinisch-Bergischer Kreis,Köln,33.4807979803,0
+1586,Rheinisch-Bergischer Kreis,Leverkusen,31.3482808811,0
+1587,Rheinisch-Bergischer Kreis,Mettmann,3.80041080992,0
+1588,Rheinisch-Bergischer Kreis,Oberbergischer Kreis,65.4800247852,0
+1589,Rheinisch-Bergischer Kreis,Remscheid,12.8480322631,0
+1590,Rheinisch-Bergischer Kreis,Rhein-Sieg-Kreis,35.9671597487,0
+1591,Rheinisch-Bergischer Kreis,Solingen,32.6441250872,0
+1592,Rhön-Grabfeld,Bad Kissingen,132.696856032,0
+1593,Rhön-Grabfeld,Fulda,20.2843573749,0
+1594,Rhön-Grabfeld,Haßberge,30.2016863473,0
+1595,Rhön-Grabfeld,Hildburghausen,50.4128197475,0
+1596,Rhön-Grabfeld,Schmalkalden-Meiningen,79.8205904746,0
+1597,Rhön-Grabfeld,Schweinfurt,12.532649745,0
+1598,Rosenheim,Ebersberg,76.9395408174,0
+1599,Rosenheim,Miesbach,93.0905160917,0
+1600,Rosenheim,Mühldorf am Inn,58.0030562267,0
+1601,Rosenheim,München,7.93284629145,0
+1602,Rosenheim,Rosenheim (Kreisfreie Stadt),38.5579413456,0
+1603,Rosenheim,Traunstein,134.350352245,0
+1604,Rosenheim (Kreisfreie Stadt),Rosenheim,38.5579413456,0
+1605,Rostock,Ludwigslust-Parchim,88.1268064558,0
+1606,Rostock,Mecklenburgische Seenplatte,159.204513017,0
+1607,Rostock,Nordwestmecklenburg,95.0686588673,0
+1608,Rostock,Rostock (Kreisfreie Stadt),93.0589143275,0
+1609,Rostock,Vorpommern-Rügen,102.661140055,0
+1610,Rostock (Kreisfreie Stadt),Rostock,93.0589143275,0
+1611,Rotenburg (Wümme),Cuxhaven,79.6103963654,0
+1612,Rotenburg (Wümme),Harburg,29.0412413884,0
+1613,Rotenburg (Wümme),Heidekreis,111.853457841,0
+1614,Rotenburg (Wümme),Osterholz,46.7121040785,0
+1615,Rotenburg (Wümme),Stade,105.326442736,0
+1616,Rotenburg (Wümme),Verden,103.82732589,0
+1617,Roth,Ansbach,41.1662780625,0
+1618,Roth,Eichstätt,58.2585614127,0
+1619,Roth,Fürth,21.7485347919,0
+1620,Roth,Neumarkt in der Oberpfalz,96.3792800055,0
+1621,Roth,Nürnberg,26.5317854951,0
+1622,Roth,Nürnberger Land,32.3844649653,0
+1623,Roth,Schwabach,40.3271354569,0
+1624,Roth,Weißenburg-Gunzenhausen,72.15873986,0
+1625,Rottal-Inn,Altötting,68.1625322339,0
+1626,Rottal-Inn,Deggendorf,4.47382613418,0
+1627,Rottal-Inn,Dingolfing-Landau,110.076505793,0
+1628,Rottal-Inn,Landshut,17.1024872607,0
+1629,Rottal-Inn,Mühldorf am Inn,33.3932886897,0
+1630,Rottal-Inn,Passau,104.020192324,0
+1631,Rottweil,Freudenstadt,89.5209747655,0
+1632,Rottweil,Ortenaukreis,35.2967494941,0
+1633,Rottweil,Schwarzwald-Baar-Kreis,64.3403891683,0
+1634,Rottweil,Tuttlingen,25.0810373937,0
+1635,Rottweil,Zollernalbkreis,60.6270007934,0
+1636,Saale-Holzland-Kreis,Burgenlandkreis,60.3185174624,0
+1637,Saale-Holzland-Kreis,Gera,3.28830359178,0
+1638,Saale-Holzland-Kreis,Greiz,52.5413731129,0
+1639,Saale-Holzland-Kreis,Jena,69.1099237866,0
+1640,Saale-Holzland-Kreis,Saale-Orla-Kreis,46.766626061,0
+1641,Saale-Holzland-Kreis,Saalfeld-Rudolstadt,21.048634519,0
+1642,Saale-Holzland-Kreis,Weimarer Land,59.8889493593,0
+1643,Saale-Orla-Kreis,Greiz,60.112877716,0
+1644,Saale-Orla-Kreis,Hof,47.2392952944,0
+1645,Saale-Orla-Kreis,Kronach,22.6928846642,0
+1646,Saale-Orla-Kreis,Saale-Holzland-Kreis,46.766626061,0
+1647,Saale-Orla-Kreis,Saalfeld-Rudolstadt,97.2093431155,0
+1648,Saale-Orla-Kreis,Vogtlandkreis,58.4290678942,0
+1649,Saalekreis,Anhalt-Bitterfeld,56.6311330287,0
+1650,Saalekreis,Burgenlandkreis,123.352648285,0
+1651,Saalekreis,Halle (Saale),103.7758055,0
+1652,Saalekreis,Kyffhäuserkreis,14.7736683358,0
+1653,Saalekreis,Leipzig,13.4734541775,0
+1654,Saalekreis,Mansfeld-Südharz,111.960720598,0
+1655,Saalekreis,Nordsachsen,48.9158265958,0
+1656,Saalekreis,Salzlandkreis,21.798943395,0
+1657,Saalfeld-Rudolstadt,Hildburghausen,6.08203696775,0
+1658,Saalfeld-Rudolstadt,Ilm-Kreis,100.923886583,0
+1659,Saalfeld-Rudolstadt,Kronach,50.300144149,0
+1660,Saalfeld-Rudolstadt,Saale-Holzland-Kreis,21.048634519,0
+1661,Saalfeld-Rudolstadt,Saale-Orla-Kreis,97.2093431155,0
+1662,Saalfeld-Rudolstadt,Sonneberg,58.4967878973,0
+1663,Saalfeld-Rudolstadt,Weimarer Land,41.5466010667,0
+1664,Saarlouis,Merzig-Wadern,57.0224014304,0
+1665,Saarlouis,Neunkirchen,17.3697231821,0
+1666,Saarlouis,Regionalverband Saarbrücken,51.5523272505,0
+1667,Saarlouis,St. Wendel,21.6577711873,0
+1668,Saarpfalz-Kreis,Kaiserslautern,0.984922703928,0
+1669,Saarpfalz-Kreis,Kusel,19.0919609078,0
+1670,Saarpfalz-Kreis,Neunkirchen,45.7230948352,0
+1671,Saarpfalz-Kreis,Regionalverband Saarbrücken,41.4879563283,0
+1672,Saarpfalz-Kreis,Südwestpfalz,22.188259524,0
+1673,Saarpfalz-Kreis,Zweibrücken,33.8248339301,0
+1674,Sächsische Schweiz-Osterzgebirge,Bautzen,59.0146361554,0
+1675,Sächsische Schweiz-Osterzgebirge,Dresden,69.3426865367,0
+1676,Sächsische Schweiz-Osterzgebirge,Meißen,21.4468105268,0
+1677,Sächsische Schweiz-Osterzgebirge,Mittelsachsen,80.6107290217,0
+1678,Salzgitter,Braunschweig,12.2989550112,0
+1679,Salzgitter,Goslar,32.3705789959,0
+1680,Salzgitter,Hildesheim,4.40804644917,0
+1681,Salzgitter,Peine,26.0990065699,0
+1682,Salzgitter,Wolfenbüttel,68.134348914,0
+1683,Salzlandkreis,Anhalt-Bitterfeld,95.0589955983,0
+1684,Salzlandkreis,Börde,63.4147525283,0
+1685,Salzlandkreis,Harz,58.587962827,0
+1686,Salzlandkreis,Jerichower Land,26.7237689634,0
+1687,Salzlandkreis,Magdeburg,29.4029754598,0
+1688,Salzlandkreis,Mansfeld-Südharz,54.895804009,0
+1689,Salzlandkreis,Saalekreis,21.798943395,0
+1690,Schaumburg,Hameln-Pyrmont,73.8802669768,0
+1691,Schaumburg,Lippe,42.5353467293,0
+1692,Schaumburg,Minden-Lübbecke,67.6820092439,0
+1693,Schaumburg,Nienburg (Weser),21.3595698802,0
+1694,Schaumburg,Region Hannover,70.3795333119,0
+1695,Schleswig-Flensburg,Dithmarschen,47.0321372737,0
+1696,Schleswig-Flensburg,Flensburg,42.3507025378,0
+1697,Schleswig-Flensburg,Nordfriesland,133.276275936,0
+1698,Schleswig-Flensburg,Rendsburg-Eckernförde,80.4883667455,0
+1699,Schmalkalden-Meiningen,Fulda,23.0261147813,0
+1700,Schmalkalden-Meiningen,Gotha,54.4806872142,0
+1701,Schmalkalden-Meiningen,Hildburghausen,62.0905733517,0
+1702,Schmalkalden-Meiningen,Ilm-Kreis,9.33319143399,0
+1703,Schmalkalden-Meiningen,Rhön-Grabfeld,79.8205904746,0
+1704,Schmalkalden-Meiningen,Suhl,44.9604751579,0
+1705,Schmalkalden-Meiningen,Wartburgkreis,94.7552140094,0
+1706,Schwabach,Nürnberg,16.984169772,0
+1707,Schwabach,Roth,40.3271354569,0
+1708,Schwäbisch Hall,Ansbach,108.756680362,0
+1709,Schwäbisch Hall,Heilbronn,7.94743085177,0
+1710,Schwäbisch Hall,Hohenlohekreis,113.464639202,0
+1711,Schwäbisch Hall,Main-Tauber-Kreis,42.3260674632,0
+1712,Schwäbisch Hall,Ostalbkreis,118.974231982,0
+1713,Schwäbisch Hall,Rems-Murr-Kreis,50.1727104294,0
+1714,Schwalm-Eder-Kreis,Hersfeld-Rotenburg,86.4144833264,0
+1715,Schwalm-Eder-Kreis,Kassel,84.3847466761,0
+1716,Schwalm-Eder-Kreis,Marburg-Biedenkopf,43.6789052077,0
+1717,Schwalm-Eder-Kreis,Vogelsbergkreis,47.8179001912,0
+1718,Schwalm-Eder-Kreis,Waldeck-Frankenberg,57.721122711,0
+1719,Schwalm-Eder-Kreis,Werra-Meißner-Kreis,27.7485886628,0
+1720,Schwandorf,Amberg-Sulzbach,131.556171885,0
+1721,Schwandorf,Cham,148.671861774,0
+1722,Schwandorf,Neumarkt in der Oberpfalz,4.37040546854,0
+1723,Schwandorf,Neustadt an der Waldnaab,94.83889227,0
+1724,Schwandorf,Regensburg,84.2653991693,0
+1725,Schwarzwald-Baar-Kreis,Breisgau-Hochschwarzwald,64.3414347731,0
+1726,Schwarzwald-Baar-Kreis,Emmendingen,40.1346805813,0
+1727,Schwarzwald-Baar-Kreis,Konstanz,8.45100315413,0
+1728,Schwarzwald-Baar-Kreis,Ortenaukreis,18.3271253543,0
+1729,Schwarzwald-Baar-Kreis,Rottweil,64.3403891683,0
+1730,Schwarzwald-Baar-Kreis,Tuttlingen,51.9124849438,0
+1731,Schwarzwald-Baar-Kreis,Waldshut,23.6518815183,0
+1732,Schweinfurt,Bad Kissingen,86.1119603854,0
+1733,Schweinfurt,Bamberg,17.1293772744,0
+1734,Schweinfurt,Haßberge,130.626643851,0
+1735,Schweinfurt,Kitzingen,58.7219105415,0
+1736,Schweinfurt,Main-Spessart,36.9105382786,0
+1737,Schweinfurt,Rhön-Grabfeld,12.532649745,0
+1738,Schweinfurt,Schweinfurt (Kreisfreie Stadt),50.6948140191,0
+1739,Schweinfurt,Würzburg,29.6846213437,0
+1740,Schweinfurt (Kreisfreie Stadt),Schweinfurt,50.6948140191,0
+1741,Schwerin,Ludwigslust-Parchim,67.5676008569,0
+1742,Schwerin,Nordwestmecklenburg,25.9488618848,0
+1743,Segeberg,Hamburg,22.1812237412,0
+1744,Segeberg,Neumünster,21.6225973932,0
+1745,Segeberg,Ostholstein,66.4472034543,0
+1746,Segeberg,Pinneberg,67.0520645761,0
+1747,Segeberg,Plön,52.914641578,0
+1748,Segeberg,Rendsburg-Eckernförde,10.5391339587,0
+1749,Segeberg,Steinburg,40.5574623798,0
+1750,Segeberg,Stormarn,116.917995238,0
+1751,Siegen-Wittgenstein,Altenkirchen (Westerwald),48.1230871932,0
+1752,Siegen-Wittgenstein,Hochsauerlandkreis,41.7119031766,0
+1753,Siegen-Wittgenstein,Lahn-Dill-Kreis,52.4197465214,0
+1754,Siegen-Wittgenstein,Marburg-Biedenkopf,24.7366001354,0
+1755,Siegen-Wittgenstein,Olpe,75.3549532207,0
+1756,Siegen-Wittgenstein,Waldeck-Frankenberg,32.3051857163,0
+1757,Siegen-Wittgenstein,Westerwaldkreis,11.1023914827,0
+1758,Sigmaringen,Biberach,76.2328242284,0
+1759,Sigmaringen,Bodenseekreis,46.8596219028,0
+1760,Sigmaringen,Konstanz,34.8077916235,0
+1761,Sigmaringen,Ravensburg,73.1436865909,0
+1762,Sigmaringen,Reutlingen,26.2137027987,0
+1763,Sigmaringen,Tuttlingen,43.2999620025,0
+1764,Sigmaringen,Zollernalbkreis,67.683811599,0
+1765,Soest,Gütersloh,10.6189015585,0
+1766,Soest,Hamm,36.8233050495,0
+1767,Soest,Hochsauerlandkreis,91.0289990274,0
+1768,Soest,Märkischer Kreis,4.75359904128,0
+1769,Soest,Paderborn,69.3629838992,0
+1770,Soest,Unna,16.2372317767,0
+1771,Soest,Warendorf,65.4663316982,0
+1772,Solingen,Mettmann,23.8861832867,0
+1773,Solingen,Remscheid,7.37591030722,0
+1774,Solingen,Rheinisch-Bergischer Kreis,32.6441250872,0
+1775,Solingen,Wuppertal,15.8499331071,0
+1776,Sömmerda,Burgenlandkreis,43.4400238841,0
+1777,Sömmerda,Erfurt,56.0918469564,0
+1778,Sömmerda,Gotha,13.1626048778,0
+1779,Sömmerda,Kyffhäuserkreis,111.558843598,0
+1780,Sömmerda,Unstrut-Hainich-Kreis,21.0446022923,0
+1781,Sömmerda,Weimarer Land,55.991288308,0
+1782,Sonneberg,Coburg,60.6366254211,0
+1783,Sonneberg,Hildburghausen,37.2922002166,0
+1784,Sonneberg,Kronach,51.0713918053,0
+1785,Sonneberg,Saalfeld-Rudolstadt,58.4967878973,0
+1786,Speyer,Karlsruhe,2.43268758732,0
+1787,Speyer,Rhein-Neckar-Kreis,9.58569156272,0
+1788,Speyer,Rhein-Pfalz-Kreis,39.4684556465,0
+1789,Spree-Neiße,Bautzen,39.1474134273,0
+1790,Spree-Neiße,Cottbus,121.146418289,0
+1791,Spree-Neiße,Dahme-Spreewald,58.8381212264,0
+1792,Spree-Neiße,Görlitz,45.0977936925,0
+1793,Spree-Neiße,Oberspreewald-Lausitz,75.7583004927,0
+1794,Spree-Neiße,Oder-Spree,46.0230483222,0
+1795,St. Wendel,Birkenfeld,41.4555079977,0
+1796,St. Wendel,Kusel,31.5301547902,0
+1797,St. Wendel,Merzig-Wadern,29.8590788766,0
+1798,St. Wendel,Neunkirchen,38.7020775478,0
+1799,St. Wendel,Saarlouis,21.6577711873,0
+1800,St. Wendel,Trier-Saarburg,25.8848077382,0
+1801,Stade,Cuxhaven,96.3739207478,0
+1802,Stade,Hamburg,7.65893992155,0
+1803,Stade,Harburg,50.6085561135,0
+1804,Stade,Pinneberg,0.855589569969,0
+1805,Stade,Rotenburg (Wümme),105.326442736,0
+1806,Städteregion Aachen,Düren,121.989265852,0
+1807,Städteregion Aachen,Euskirchen,25.8540404926,0
+1808,Städteregion Aachen,Heinsberg,17.9255892991,0
+1809,Starnberg,Bad Tölz-Wolfratshausen,36.671096901,0
+1810,Starnberg,Fürstenfeldbruck,42.9823027145,0
+1811,Starnberg,Landsberg am Lech,22.5256320366,0
+1812,Starnberg,München,30.9299920571,0
+1813,Starnberg,Weilheim-Schongau,55.6144711609,0
+1814,Steinburg,Dithmarschen,38.7273401642,0
+1815,Steinburg,Pinneberg,49.3503904032,0
+1816,Steinburg,Rendsburg-Eckernförde,93.4272849109,0
+1817,Steinburg,Segeberg,40.5574623798,0
+1818,Steinfurt,Borken,40.8938644126,0
+1819,Steinfurt,Coesfeld,39.709718994,0
+1820,Steinfurt,Emsland,55.006773083,0
+1821,Steinfurt,Grafschaft Bentheim,26.1972925401,0
+1822,Steinfurt,Münster,32.2627314017,0
+1823,Steinfurt,Osnabrück,109.581097885,0
+1824,Steinfurt,Osnabrück (Kreisfreie Stadt),16.4564603701,0
+1825,Steinfurt,Warendorf,26.6708615383,0
+1826,Stendal,Altmarkkreis Salzwedel,162.062305983,0
+1827,Stendal,Börde,68.9607566346,0
+1828,Stendal,Havelland,71.781895444,0
+1829,Stendal,Jerichower Land,78.246021444,0
+1830,Stendal,Lüchow-Dannenberg,21.761889849,0
+1831,Stendal,Ostprignitz-Ruppin,31.61329978,0
+1832,Stendal,Prignitz,82.067956768,0
+1833,Stormarn,Hamburg,84.11344475,0
+1834,Stormarn,Herzogtum Lauenburg,113.757861248,0
+1835,Stormarn,Lübeck,27.5624450758,0
+1836,Stormarn,Ostholstein,8.24639526786,0
+1837,Stormarn,Segeberg,116.917995238,0
+1838,Straubing,Straubing-Bogen,71.8195349903,0
+1839,Straubing-Bogen,Cham,51.5747353695,0
+1840,Straubing-Bogen,Deggendorf,49.7042437502,0
+1841,Straubing-Bogen,Dingolfing-Landau,88.0282501813,0
+1842,Straubing-Bogen,Landshut,33.9301328545,0
+1843,Straubing-Bogen,Regen,29.3604714785,0
+1844,Straubing-Bogen,Regensburg,100.640833455,0
+1845,Straubing-Bogen,Straubing,71.8195349903,0
+1846,Stuttgart,Böblingen,16.3546308699,0
+1847,Stuttgart,Esslingen,38.6160052715,0
+1848,Stuttgart,Ludwigsburg,45.3824771761,0
+1849,Stuttgart,Rems-Murr-Kreis,22.3473921876,0
+1850,Südliche Weinstraße,Bad Dürkheim,9.91432555128,0
+1851,Südliche Weinstraße,Germersheim,87.2252717878,0
+1852,Südliche Weinstraße,Landau in der Pfalz,102.182938013,0
+1853,Südliche Weinstraße,Neustadt an der Weinstraße,44.712129458,0
+1854,Südliche Weinstraße,Rhein-Pfalz-Kreis,3.09376241595,0
+1855,Südliche Weinstraße,Südwestpfalz,78.1045400891,0
+1856,Südwestpfalz,Bad Dürkheim,6.10426209118,0
+1857,Südwestpfalz,Kaiserslautern,67.7299612245,0
+1858,Südwestpfalz,Landau in der Pfalz,4.09430916163,0
+1859,Südwestpfalz,Pirmasens,63.0792445615,0
+1860,Südwestpfalz,Saarpfalz-Kreis,22.188259524,0
+1861,Südwestpfalz,Südliche Weinstraße,78.1045400891,0
+1862,Südwestpfalz,Zweibrücken,41.1801907653,0
+1863,Suhl,Hildburghausen,40.9458532797,0
+1864,Suhl,Ilm-Kreis,21.4895669515,0
+1865,Suhl,Schmalkalden-Meiningen,44.9604751579,0
+1866,Teltow-Fläming,Berlin,15.09024705,0
+1867,Teltow-Fläming,Dahme-Spreewald,175.287229443,0
+1868,Teltow-Fläming,Elbe-Elster,55.339578437,0
+1869,Teltow-Fläming,Potsdam-Mittelmark,122.996692235,0
+1870,Teltow-Fläming,Wittenberg,64.3852426178,0
+1871,Tirschenreuth,Bayreuth,44.4638886223,0
+1872,Tirschenreuth,Neustadt an der Waldnaab,109.993702588,0
+1873,Tirschenreuth,Wunsiedel im Fichtelgebirge,58.2272965315,0
+1874,Traunstein,Altötting,49.9916086002,0
+1875,Traunstein,Berchtesgadener Land,98.2072681833,0
+1876,Traunstein,Mühldorf am Inn,35.6749446768,0
+1877,Traunstein,Rosenheim,134.350352245,0
+1878,Trier,Trier-Saarburg,111.458403758,0
+1879,Trier-Saarburg,Bernkastel-Wittlich,89.5543765416,0
+1880,Trier-Saarburg,Birkenfeld,10.8101815831,0
+1881,Trier-Saarburg,Eifelkreis Bitburg-Prüm,43.2675120919,0
+1882,Trier-Saarburg,Merzig-Wadern,76.1921781705,0
+1883,Trier-Saarburg,St. Wendel,25.8848077382,0
+1884,Trier-Saarburg,Trier,111.458403758,0
+1885,Tübingen,Böblingen,71.5594729954,0
+1886,Tübingen,Calw,3.8903746894,0
+1887,Tübingen,Freudenstadt,27.8666687572,0
+1888,Tübingen,Reutlingen,57.2706836706,0
+1889,Tübingen,Zollernalbkreis,55.8347397949,0
+1890,Tuttlingen,Konstanz,71.5489957887,0
+1891,Tuttlingen,Rottweil,25.0810373937,0
+1892,Tuttlingen,Schwarzwald-Baar-Kreis,51.9124849438,0
+1893,Tuttlingen,Sigmaringen,43.2999620025,0
+1894,Tuttlingen,Zollernalbkreis,33.6250436199,0
+1895,Uckermark,Barnim,126.308144235,0
+1896,Uckermark,Mecklenburgische Seenplatte,96.1857312635,0
+1897,Uckermark,Oberhavel,73.1961354604,0
+1898,Uckermark,Vorpommern-Greifswald,168.021808041,0
+1899,Uelzen,Altmarkkreis Salzwedel,16.0029084267,0
+1900,Uelzen,Celle,36.0330025834,0
+1901,Uelzen,Gifhorn,42.7482470464,0
+1902,Uelzen,Heidekreis,37.7706482161,0
+1903,Uelzen,Lüchow-Dannenberg,69.1339784952,0
+1904,Uelzen,Lüneburg,97.8849332413,0
+1905,Ulm,Alb-Donau-Kreis,91.1727214512,0
+1906,Ulm,Neu-Ulm,25.2055411843,0
+1907,Unna,Coesfeld,60.1630061977,0
+1908,Unna,Dortmund,66.2880075673,0
+1909,Unna,Hagen,12.8726270799,0
+1910,Unna,Hamm,46.3018601416,0
+1911,Unna,Märkischer Kreis,42.9230954039,0
+1912,Unna,Recklinghausen,19.6097745719,0
+1913,Unna,Soest,16.2372317767,0
+1914,Unstrut-Hainich-Kreis,Eichsfeld,60.1896695638,0
+1915,Unstrut-Hainich-Kreis,Gotha,43.6157319575,0
+1916,Unstrut-Hainich-Kreis,Kyffhäuserkreis,73.9908601926,0
+1917,Unstrut-Hainich-Kreis,Sömmerda,21.0446022923,0
+1918,Unstrut-Hainich-Kreis,Wartburgkreis,79.7626573439,0
+1919,Unstrut-Hainich-Kreis,Werra-Meißner-Kreis,11.3688827048,0
+1920,Unterallgäu,Augsburg,51.0368821964,0
+1921,Unterallgäu,Biberach,18.2383708743,0
+1922,Unterallgäu,Günzburg,66.0806401984,0
+1923,Unterallgäu,Memmingen,68.6513072024,0
+1924,Unterallgäu,Neu-Ulm,34.9799669324,0
+1925,Unterallgäu,Oberallgäu,34.3326228965,0
+1926,Unterallgäu,Ostallgäu,99.9010633556,0
+1927,Unterallgäu,Ravensburg,32.6050797147,0
+1928,Vechta,Cloppenburg,56.9690964171,0
+1929,Vechta,Diepholz,59.0817946648,0
+1930,Vechta,Oldenburg,35.1430984899,0
+1931,Vechta,Osnabrück,77.6990311019,0
+1932,Verden,Bremen,31.3237867344,0
+1933,Verden,Diepholz,47.9644366913,0
+1934,Verden,Heidekreis,44.8418831293,0
+1935,Verden,Nienburg (Weser),59.0785698848,0
+1936,Verden,Osterholz,13.075721648,0
+1937,Verden,Rotenburg (Wümme),103.82732589,0
+1938,Viersen,Heinsberg,16.2128010632,0
+1939,Viersen,Kleve,39.2083807922,0
+1940,Viersen,Krefeld,36.6994092884,0
+1941,Viersen,Mönchengladbach,34.4404571582,0
+1942,Viersen,Rhein-Kreis Neuss,22.3591191668,0
+1943,Viersen,Wesel,3.59234755605,0
+1944,Vogelsbergkreis,Fulda,88.9291449532,0
+1945,Vogelsbergkreis,Gießen,62.3509468252,0
+1946,Vogelsbergkreis,Hersfeld-Rotenburg,33.3373696091,0
+1947,Vogelsbergkreis,Main-Kinzig-Kreis,44.836823632,0
+1948,Vogelsbergkreis,Marburg-Biedenkopf,39.9960348567,0
+1949,Vogelsbergkreis,Schwalm-Eder-Kreis,47.8179001912,0
+1950,Vogelsbergkreis,Wetteraukreis,46.8796823322,0
+1951,Vogtlandkreis,Erzgebirgskreis,34.4563030231,0
+1952,Vogtlandkreis,Greiz,97.8217824615,0
+1953,Vogtlandkreis,Hof,45.827785917,0
+1954,Vogtlandkreis,Saale-Orla-Kreis,58.4290678942,0
+1955,Vogtlandkreis,Zwickau,49.2667067017,0
+1956,Vorpommern-Greifswald,Mecklenburgische Seenplatte,212.475834123,0
+1957,Vorpommern-Greifswald,Uckermark,168.021808041,0
+1958,Vorpommern-Greifswald,Vorpommern-Rügen,70.6540436064,0
+1959,Vorpommern-Rügen,Mecklenburgische Seenplatte,22.8906944794,0
+1960,Vorpommern-Rügen,Rostock,102.661140055,0
+1961,Vorpommern-Rügen,Vorpommern-Greifswald,70.6540436064,0
+1962,Vulkaneifel,Ahrweiler,39.6293573012,0
+1963,Vulkaneifel,Bernkastel-Wittlich,45.9456347113,0
+1964,Vulkaneifel,Cochem-Zell,49.3601309127,0
+1965,Vulkaneifel,Eifelkreis Bitburg-Prüm,83.849754596,0
+1966,Vulkaneifel,Euskirchen,86.4014775237,0
+1967,Vulkaneifel,Mayen-Koblenz,30.6190016742,0
+1968,Waldeck-Frankenberg,Hochsauerlandkreis,153.466924739,0
+1969,Waldeck-Frankenberg,Höxter,30.0546140774,0
+1970,Waldeck-Frankenberg,Kassel,70.5038354024,0
+1971,Waldeck-Frankenberg,Marburg-Biedenkopf,76.5088682622,0
+1972,Waldeck-Frankenberg,Schwalm-Eder-Kreis,57.721122711,0
+1973,Waldeck-Frankenberg,Siegen-Wittgenstein,32.3051857163,0
+1974,Waldshut,Breisgau-Hochschwarzwald,84.7528076583,0
+1975,Waldshut,Lörrach,50.0577971266,0
+1976,Waldshut,Schwarzwald-Baar-Kreis,23.6518815183,0
+1977,Warendorf,Coesfeld,23.0977336883,0
+1978,Warendorf,Gütersloh,76.6169127821,0
+1979,Warendorf,Hamm,33.0495037937,0
+1980,Warendorf,Münster,60.1652837451,0
+1981,Warendorf,Osnabrück,29.7050025556,0
+1982,Warendorf,Soest,65.4663316982,0
+1983,Warendorf,Steinfurt,26.6708615383,0
+1984,Wartburgkreis,Eisenach,86.9365841381,0
+1985,Wartburgkreis,Fulda,59.3184991366,0
+1986,Wartburgkreis,Gotha,59.2902985724,0
+1987,Wartburgkreis,Hersfeld-Rotenburg,97.1073300958,0
+1988,Wartburgkreis,Schmalkalden-Meiningen,94.7552140094,0
+1989,Wartburgkreis,Unstrut-Hainich-Kreis,79.7626573439,0
+1990,Wartburgkreis,Werra-Meißner-Kreis,81.4047078605,0
+1991,Weiden in der Oberpfalz,Neustadt an der Waldnaab,91.2881144866,0
+1992,Weilheim-Schongau,Bad Tölz-Wolfratshausen,36.8025685542,0
+1993,Weilheim-Schongau,Garmisch-Partenkirchen,75.9750669402,0
+1994,Weilheim-Schongau,Landsberg am Lech,78.5315804229,0
+1995,Weilheim-Schongau,Ostallgäu,97.131206181,0
+1996,Weilheim-Schongau,Starnberg,55.6144711609,0
+1997,Weimar,Weimarer Land,82.394062879,0
+1998,Weimarer Land,Burgenlandkreis,32.3569445934,0
+1999,Weimarer Land,Erfurt,25.4253433244,0
+2000,Weimarer Land,Ilm-Kreis,33.3883597191,0
+2001,Weimarer Land,Jena,22.2029259331,0
+2002,Weimarer Land,Saale-Holzland-Kreis,59.8889493593,0
+2003,Weimarer Land,Saalfeld-Rudolstadt,41.5466010667,0
+2004,Weimarer Land,Sömmerda,55.991288308,0
+2005,Weimarer Land,Weimar,82.394062879,0
+2006,Weißenburg-Gunzenhausen,Ansbach,63.6268819948,0
+2007,Weißenburg-Gunzenhausen,Donau-Ries,88.5623836783,0
+2008,Weißenburg-Gunzenhausen,Eichstätt,63.597669322,0
+2009,Weißenburg-Gunzenhausen,Roth,72.15873986,0
+2010,Werra-Meißner-Kreis,Eichsfeld,58.1075925143,0
+2011,Werra-Meißner-Kreis,Eisenach,3.41666489496,0
+2012,Werra-Meißner-Kreis,Göttingen,75.0583651066,0
+2013,Werra-Meißner-Kreis,Hersfeld-Rotenburg,40.7307490748,0
+2014,Werra-Meißner-Kreis,Kassel,68.2126483759,0
+2015,Werra-Meißner-Kreis,Schwalm-Eder-Kreis,27.7485886628,0
+2016,Werra-Meißner-Kreis,Unstrut-Hainich-Kreis,11.3688827048,0
+2017,Werra-Meißner-Kreis,Wartburgkreis,81.4047078605,0
+2018,Wesel,Borken,58.7001104817,0
+2019,Wesel,Bottrop,15.1551278367,0
+2020,Wesel,Duisburg,56.8185685608,0
+2021,Wesel,Kleve,134.174081844,0
+2022,Wesel,Krefeld,14.3483325444,0
+2023,Wesel,Oberhausen,10.4785814255,0
+2024,Wesel,Recklinghausen,21.573816018,0
+2025,Wesel,Viersen,3.59234755605,0
+2026,Wesermarsch,Ammerland,39.6324902096,0
+2027,Wesermarsch,Bremen,27.1368526771,0
+2028,Wesermarsch,Bremerhaven,4.53285843263,0
+2029,Wesermarsch,Cuxhaven,11.8175302833,0
+2030,Wesermarsch,Delmenhorst,2.64507121977,0
+2031,Wesermarsch,Friesland,11.0135286806,0
+2032,Wesermarsch,Oldenburg,49.144406973,0
+2033,Wesermarsch,Oldenburg (Kreisfreie Stadt),7.90177952932,0
+2034,Wesermarsch,Osterholz,16.131483822,0
+2035,Westerwaldkreis,Altenkirchen (Westerwald),85.086970435,0
+2036,Westerwaldkreis,Koblenz,5.78197398075,0
+2037,Westerwaldkreis,Lahn-Dill-Kreis,16.4969989395,0
+2038,Westerwaldkreis,Limburg-Weilburg,57.5976346616,0
+2039,Westerwaldkreis,Mayen-Koblenz,31.6866432941,0
+2040,Westerwaldkreis,Neuwied,55.4120171417,0
+2041,Westerwaldkreis,Rhein-Lahn-Kreis,71.6819536691,0
+2042,Westerwaldkreis,Siegen-Wittgenstein,11.1023914827,0
+2043,Wetteraukreis,Frankfurt am Main,22.4247676657,0
+2044,Wetteraukreis,Gießen,89.7468910304,0
+2045,Wetteraukreis,Hochtaunuskreis,59.2752450022,0
+2046,Wetteraukreis,Lahn-Dill-Kreis,11.2816754037,0
+2047,Wetteraukreis,Main-Kinzig-Kreis,116.949205302,0
+2048,Wetteraukreis,Vogelsbergkreis,46.8796823322,0
+2049,Wiesbaden,Groß-Gerau,4.87457653245,0
+2050,Wiesbaden,Main-Taunus-Kreis,36.7777663501,0
+2051,Wiesbaden,Mainz,12.2364870504,0
+2052,Wiesbaden,Mainz-Bingen,1.6678273653,0
+2053,Wiesbaden,Rheingau-Taunus-Kreis,45.7994595335,0
+2054,Wilhelmshaven,Friesland,43.6826291607,0
+2055,Wittenberg,Anhalt-Bitterfeld,76.7925663573,0
+2056,Wittenberg,Dessau-Roßlau,51.901601794,0
+2057,Wittenberg,Elbe-Elster,55.6867142452,0
+2058,Wittenberg,Nordsachsen,82.8149434795,0
+2059,Wittenberg,Potsdam-Mittelmark,54.1384363735,0
+2060,Wittenberg,Teltow-Fläming,64.3852426178,0
+2061,Wittmund,Aurich,122.178974731,0
+2062,Wittmund,Friesland,89.8597275558,0
+2063,Wittmund,Leer,7.13395170133,0
+2064,Wolfenbüttel,Braunschweig,31.6434948878,0
+2065,Wolfenbüttel,Goslar,36.579532542,0
+2066,Wolfenbüttel,Harz,34.7712499094,0
+2067,Wolfenbüttel,Helmstedt,68.4474777828,0
+2068,Wolfenbüttel,Hildesheim,38.5575301623,0
+2069,Wolfenbüttel,Salzgitter,68.134348914,0
+2070,Wolfsburg,Gifhorn,50.5567161603,0
+2071,Wolfsburg,Helmstedt,71.6942078989,0
+2072,Worms,Alzey-Worms,48.4496254701,0
+2073,Worms,Bad Dürkheim,3.26552860746,0
+2074,Worms,Bergstraße,24.3439300162,0
+2075,Worms,Rhein-Pfalz-Kreis,17.630723145,0
+2076,Wunsiedel im Fichtelgebirge,Bayreuth,29.6606984574,0
+2077,Wunsiedel im Fichtelgebirge,Hof,65.7634583411,0
+2078,Wunsiedel im Fichtelgebirge,Tirschenreuth,58.2272965315,0
+2079,Wuppertal,Ennepe-Ruhr-Kreis,33.081231168,0
+2080,Wuppertal,Mettmann,33.0231401981,0
+2081,Wuppertal,Oberbergischer Kreis,6.66031349971,0
+2082,Wuppertal,Remscheid,26.2593414416,0
+2083,Wuppertal,Solingen,15.8499331071,0
+2084,Würzburg,Kitzingen,75.6686036941,0
+2085,Würzburg,Main-Spessart,72.770216057,0
+2086,Würzburg,Main-Tauber-Kreis,155.191383624,0
+2087,Würzburg,Neustadt an der Aisch-Bad Windsheim,15.7393755389,0
+2088,Würzburg,Schweinfurt,29.6846213437,0
+2089,Würzburg,Würzburg (Kreisfreie Stadt),83.6460900677,0
+2090,Würzburg (Kreisfreie Stadt),Würzburg,83.6460900677,0
+2091,Zollernalbkreis,Freudenstadt,8.85186220201,0
+2092,Zollernalbkreis,Reutlingen,31.4719033254,0
+2093,Zollernalbkreis,Rottweil,60.6270007934,0
+2094,Zollernalbkreis,Sigmaringen,67.683811599,0
+2095,Zollernalbkreis,Tübingen,55.8347397949,0
+2096,Zollernalbkreis,Tuttlingen,33.6250436199,0
+2097,Zweibrücken,Saarpfalz-Kreis,33.8248339301,0
+2098,Zweibrücken,Südwestpfalz,41.1801907653,0
+2099,Zwickau,Altenburger Land,70.7793657314,0
+2100,Zwickau,Chemnitz,25.2633479135,0
+2101,Zwickau,Erzgebirgskreis,95.3543141497,0
+2102,Zwickau,Greiz,42.1052550161,0
+2103,Zwickau,Mittelsachsen,26.7713811885,0
+2104,Zwickau,Vogtlandkreis,49.2667067017,0
